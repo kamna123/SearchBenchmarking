@@ -7,14 +7,14 @@ import (
 	//"github.com/blevesearch/bleve/search/query"
 	//"strconv"
 	"SearchBenchmarking/datamodel"
-	"log"
+	//"log"
 	//"github.com/fatih/structs"
 	//"github.com/blevesearch/bleve/index"
 	//	"flag"
 	"reflect"
 )
 
-func QueryResult(pmp datamodel.Pmp, index bleve.Index) {
+func QueryResult(pmp datamodel.Pmp, index bleve.Index) (*bleve.SearchResult, error) {
 
 	//m := structs.Map(pmp)
 	//fmt.Println("inside query result......")
@@ -44,8 +44,9 @@ func QueryResult(pmp datamodel.Pmp, index bleve.Index) {
 	}
 
 	searchRequest := bleve.NewSearchRequest(totalQuery)
-	searchResults, _ := index.Search(searchRequest)
-	log.Printf("result is %s ", searchResults)
+	searchResults, err := index.Search(searchRequest)
+	return searchResults, err
+	//log.Printf("result is %s ", searchResults)
 	//fmt.Println("search results are : ", searchResults)
 	//fmt.Println("exiting query result......")
 	//
