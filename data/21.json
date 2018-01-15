@@ -1,0 +1,62 @@
+{
+    
+    "adsize": [
+        "nil"
+    ],
+    "adformats": [
+       "nil"
+    ],
+    "gps": "nil",
+    "ifa": "nil",
+    "integration": [
+       "nil"
+    ],
+    "clickable": "nil",
+    "instream": "nil",
+    "incentivized": "nil",
+    "autoplay": "nil",
+    "sound": "nil",
+    "skippable": "nil",
+    "viewability": "nil",
+    "moat": "nil",
+    "adsizedesk": [
+       "nil"
+    ],
+    "adunitdesk": [
+       "nil"
+    ],
+
+    "apporwebtargetting": "1",
+    "categories": ["nil"],
+    "categoriesinclude": "1",
+    "domainbundleinclude": "1",
+    "domainbundle": "101greatgoals.com\n2carpros.com\n49erswebzone.com\n9to5google.com\nactive.com\namericaloveshorsepower.com\nathleticsnation.com\nautoconnectedcar.com\nautotrader.com\nazbilliards.com\nazcardinals.com\nbaseball-reference.com\nbigsoccer.com\nbikeforums.net\nbikeradar.com\nbleacherreport.com\nbloodyelbow.com\nbodybuilding.com\nboxingscene.com\nbuccaneers.com\nbulldawgillustrated.com\ncaradvice.com.au\ncaranddriver.com\ncarcomplaints.com\ncarolinahuddle.com\ncbssports.com\nchelseanews.com\ncitationmachine.net\nclutchfans.net\ncrash.net\nd1baseball.com\ndeadspin.com\ndrf.com\neastwood.com\neasybib.com\nedmunds.com\nelectrek.co\nelephant.com\nelevenwarriors.com\neliteprospects.com\nequibase.com\nerienewsnow.com\nespncricinfo.com\nf1technical.net\nfangraphs.com\nfayobserver.com\nfightnews.com\nflashscore.com\nfootytube.com\nfoxsports.com\ngearheads.org\ngminsidenews.com\ngoal.com\ngoalsarena.org\ngolf.com\ngolfwrx.com\nhockey-reference.com\nhockeysfuture.com\nhoopshype.com\nhuskermax.com\nhuskers.com\nintermatwrestle.com\nktuu.com\nktvz.com\nlacrossetribune.com\nlakersnation.com\nlarrybrownsports.com\nletsrun.com\nlocalnews8.com\nmanunews.com\nmaxpreps.com\nmetsmerizedonline.com\nmiamidolphins.com\nmilehighreport.com\nmixedmartialarts.com\nmlb.com\nmlbtraderumors.com\nmmafighting.com\nmmajunkie.com\nmmaweekly.com\nmom4real.com\nmotocrossactionmag.com\nmotorsport.com\nmotortrend.com\nmpora.com\nmtbr.com\nmuscleandfitness.com\nmynhltraderumors.com\nnapaprolink.com\nnba.com\nnbadraft.net\nnews4sanantonio.com\nnewspressnow.com\nnewyorkjets.com\nnfl.com\nnhl.com\nnicoclub.com\nninersnation.com\nnj1015.com\nonlygators.com\norioleshangout.com\nplanetdestiny.com\npowernationtv.com\npro-football-reference.com\nprofootballweekly.com\nproprofs.com\nrankingsandreviews.com\nrealgm.com\nrecord-eagle.com\nroadandtrack.com\nrotoworld.com\nroyalsreview.com\nrslsoapbox.com\nrunnersworld.com\nsbnation.com\nscout.com\nsecsports.com\nsherdog.com\nsinglemomsincome.com\nskysports.com\nslamonline.com\nsoundersfc.com\nsourceforge.net\nsoutheasttexas.com\nsportingnews.com\nt-nation.com\nteamnames.net\ntennis.com\nthebiglead.com\nthecalculatorsite.com\nthecommonsenseshow.com\nthefalcoholic.com\nthehockeynews.com\nthesimpledollar.com\ntrackandfieldnews.com\ntribalfootball.com\nurltv.tv\nusahockey.com\nuscho.com\nusssa.com\nword-grabber.com\nyoutubeonrepeat.com\nzeroto60times.com",
+    "adultcontent": "1",
+    "deviceOSinclude": "1",
+    "deviceOS": ["nil"],
+    "deviceID": ["nil"],
+    "deviceCategory": "-1",
+    "deviceMake": ["nil"],
+    "devicemodel": "nil",
+    "deviceosversion": "nil",
+    "carrierwhitelist": ["nil"],
+    "ispwhitelist": ["nil"],
+    "wifitargeting": "-1",
+    "country": "USA",
+    "postalcode": "nil",
+    "dma": "nil",
+    "dp_expression": "nil",
+    "packagename": "360i_DBM_Auto",
+    "enabled_on_desktop": "0",
+    "enabled_on_mobile": "1",
+    "enabled_on_tablet": "1",
+    "desktopSelected": "false",
+    "MobSelected": "true",
+    "tabSelected": "true",
+    "DeviceTypeError": "false",
+    "states":["nil"],
+    "cities": ["nil"],
+    "designid":["nil"],
+    "site": ["nil"]
+
+}

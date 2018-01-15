@@ -1,0 +1,63 @@
+{
+    
+    "adsize": [
+        "nil"
+    ],
+    "adformats": [
+       "nil"
+    ],
+    "gps": "nil",
+    "ifa": "nil",
+    "integration": [
+       "nil"
+    ],
+    "clickable": "nil",
+    "instream": "nil",
+    "incentivized": "nil",
+    "autoplay": "nil",
+    "sound": "nil",
+    "skippable": "nil",
+    "viewability": "nil",
+    "moat": "nil",
+    "adsizedesk": [
+       "nil"
+    ],
+    "adunitdesk": [
+       "nil"
+    ],
+
+    "apporwebtargetting": "1",
+    "categories": ["nil"],
+    "categoriesinclude": "1",
+    "domainbundleinclude": "1",
+    "domainbundle": "vice.com\ndailymotion.com\ncafemom.com\nbleacherreport.com\nmarmiton.org\nddotomen.co\nyahoo.com\nusmagazine.com\nbbook.com\nmtv.com\nrollingstone.com\ntmz.com\ndamndelicious.net\niheart.com\nvogue.com\nwritical.com\niranproud.org\npracticalecommerce.com\nrushlane.com\nsmeet.com\ncanliskor3.com\ncracked.com\niwin.com\nlittlethings.com\nnesn.com\nign.com\ncomplex.com\nfoodnetwork.com\ngolflink.com\nambitiouskitchen.com\nairg.com\nhowsweeteats.com\nmobileposse.com\nmodernmom.com\npaycheckcity.com\nfood52.com\natt.net\nradaronline.com\nharpersbazaar.com\nschaeffersresearch.com\ndailymail.co.uk\nmopub.com\n9to5mac.com\nranker.com\nwashingtonjournal.com\nhomestyler.com\nvanityfair.com\nnymetroparents.com\nfashionbeans.com\nthebigmansworld.com\ngoal.com\nmotorpasion.com.mx\nbillboard.com\ndecodethis.com\nspicysouthernkitchen.com\ncookieandkate.com\ndiply.com\nmsn.com\ndieharddemocrat.com\nvariety.com\nehow.com\nhealthline.com\nhollywoodreporter.com\nvocativ.com\ncopykat.com\npeople.com\nbowl.com\neatingonadime.com\ngo.com\nonegoodthingbyjillee.com\nweather.com\nsmoreapp.co\nmuscleandfitness.com\ncollegehumor.com\njustjared.com\nconnectionsacademy.com\nwnyc.org\nifoodreal.com\ngeekfill.com\nnewyorker.com\nrumble.com\ninner-active.mobi\nphimmoi.net\npremierguitar.com\ntimeout.com\nteenvogue.com\nmommypage.com\nanimeflv.me\nlemonde.fr\ncaranddriver.com\nsheknows.com\nnaturallivingideas.com\nculinaryhill.com\ncosmopolitan.com\nwordcookiescheat.com\naco.net\nmtonews.com\nlittlesweetbaker.com\nkirbiecravings.com\nbarkpost.com\nstylecaster.com\nbraincandy.net\nchefsavvy.com\neinthusan.tv\nespn.com\ngameranx.com\ncottercrunch.com\ntasteandtellblog.com\nmovieweb.com\nhollywood.com\nweqyoua.net\nlifeloveandsugar.com\npinchofyum.com\nmarieclaire.com\nthesmartpart.com\nyoungcons.com\ncbslocal.com\nchatytvgratishd.me\nsciencechannel.com\nlivenewson.com\nspeedsociety.com\nsportskeeda.com\nespnfc.us\naskthis.org\ndevoutamerica.com\nkobatochan.com\nscreenrant.com\ntennisworldusa.org\nwideopeneats.com\nbeautifuldecay.com\nshape.com\nmaploco.com\n4runnerforum.com\nbusiness-articles.me\nunivision.com\nbusiness-solutions.us\ncookiesandcups.com\niheartnaptime.net\neazypeazymealz.com\nthekitchn.com\nhealthyway.com\nabeautifulmess.com\ndistractify.com\nasda.com\ndaytonainternationalspeedway.com\nsimplyrecipes.com\nwikr.com\ncibercuba.com\ntherecipecritic.com\nthedrive.com\nweqyoua.com\npinoychannel.mobi\nnativeplanet.com\npennypinchinmom.com\ntenplay.com.au\nboxden.com\nrpgsite.net\nvolarenovels.com\nkissmanga.com\nonlyinyourstate.com\nmomtastic.com\nsouthernplate.com\nrightwingedge.com\nthehockeywriters.com\nunbiasedwriter.com\nallrecipes.com\ntheclever.com\nultimate-guitar.com\nwikia.com\njustonecookbook.com\numggaming.com\npokehuntr.com\ntastesoflizzyt.com\nlosangelespost.com\nsarcasmsociety.com\nprimagames.com\nmiamiherald.com\nwuxiaworld.com\nnovelupdates.com\nwordpress.com\npatriotjournal.com\nsun-gazing.com\nteamtalk.com\nfoxhollowcottage.com\npcgamer.com\niran021.com\nftv-publicite.fr\ninquisitr.com\nfoodfolksandfun.net\nlindseyreviews.com\nadmarvel.com\nnicerdays.org\naudioholics.com\nsbs.com.au\npickledplum.com\nmadlyodd.com\nhypable.com\nallenbwest.com\naheadofthyme.com\ncbr.com\nthemindinspired.org\nslate.com\nmothership.sg\nse.com\nskinet.com\ntracfone.com\ngettyimages.com\ngazettereview.com\niscorp.com\njuliasalbum.com\nthisisinsider.com\nwatchthis.com\ndestinylfg.net\nhubpages.com\nlaweekly.com\nanimeland.tv\ngadgethacks.com\nwikihow.com\ngimmesomeoven.com\nrelayhero.com\nlaprensagrafica.com\nwritersdigest.com",
+    "adultcontent": "1",
+    "deviceOSinclude": "1",
+    "deviceOS": ["nil"],
+    "deviceID": ["nil"],
+    "deviceCategory": "-1",
+    "deviceMake": ["nil"],
+    "devicemodel": "nil",
+    "deviceosversion": "nil",
+    "carrierwhitelist": ["nil"],
+    "ispwhitelist": ["nil"],
+    "wifitargeting": "-1",
+    "country": "USA",
+    "postalcode": "nil",
+    "dma": "nil",
+    "dp_expression": "nil",
+    "packagename": "Mars_Q3_PMP_MW_DBM",
+    "enabled_on_desktop": "0",
+    "enabled_on_mobile": "1",
+    "enabled_on_tablet": "1",
+    "desktopSelected": "false",
+    "MobSelected": "true",
+    "tabSelected": "true",
+    "DeviceTypeError": "false",
+    "states":["nil"],
+    "cities": ["nil"],
+    "designid":["nil"],
+    "site": ["nil"]
+
+   
+}

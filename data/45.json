@@ -1,0 +1,63 @@
+{
+    
+    "adsize": [
+        "nil"
+    ],
+    "adformats": [
+       "nil"
+    ],
+    "gps": "nil",
+    "ifa": "nil",
+    "integration": [
+       "nil"
+    ],
+    "clickable": "nil",
+    "instream": "nil",
+    "incentivized": "nil",
+    "autoplay": "nil",
+    "sound": "nil",
+    "skippable": "true",
+    "viewability": "nil",
+    "moat": "nil",
+    "adsizedesk": [
+       "nil"
+    ],
+    "adunitdesk": [
+       "nil"
+    ],
+
+    "apporwebtargetting": "1",
+    "categories": ["nil"],
+    "categoriesinclude": "1",
+    "domainbundleinclude": "1",
+    "domainbundle": "elcolombiano.com\nnoticierodigital.com\nregeneracion.mx\ndmv-written-test.com\nhoy.com.do\ncuidadosdetusalud.com\nlamusica.com\norgulloso.es\ncolombia.com\nchivaspasion.com\nmhoninoticias.com\nmisabueso.com\nquien.com\nelbocon.pe\nvidaysalud.com\nlostiempos.com\nhola.com\nnoticiacristiana.com\nviralistas.com\nholaciudad.com\ncanal44.com\nperu21.pe\nlogicaecologica.es\nmamaslatinas.com\nproceso.com.mx\nelperiodico.com.gt\nelmanana.com\nvivanuncios.com.mx\nbibliatodo.com\nelnuevodiario.com.ni\nholadoctor.com\ncalgaryherald.com\n14ymedio.com\naleteia.org\nmundo.com\ncatholic.net\nespn.com\nalmomento.net\nelgrafico.com\nterra.com\nrecord.com.mx\ntiempo.hn\ntlvz.com\npildorasdefe.net\neldiariodechihuahua.mx\namericateve.com\nfutbolred.com\ndiariolibre.com\ndiariolasamericas.com\nhinchaamarillo.com\nsiempremujer.com\neltijuanense.com\nnewschannel5.com\nmilenio.com\nsoy502.com\ndiario.mx\nlopezdoriga.com\nzara.com\nelespectador.com\nteletica.com\nlaprensa.com.ni\neluniversal.com\nmultimedios.com\nelcomercio.com\nanimalpolitico.com\nelcomercio.pe\ntvnotas.com.mx\nmusica.com\ntelevisa.com\nfutbolete.com\nlaprensagrafica.com\neluniverso.com\nmetro.pr\ncibercuba.com\nelnuevodia.com\nviveusa.mx\naciprensa.com\nremolacha.net\naristeguinoticias.com\nsinembargo.mx\npaperblog.com\nsemana.com\nlavozdaily.com\nmediotiempo.com\nelheraldo.hn\neldiariony.com\nfoxdeportes.com\nlaopinion.com\neluniversal.com.mx\ndiez.hn\nentravision.com\nelsalvador.com\nvancouversun.com\neltiempo.com\npopful.com\nlaprensa.hn\nelnuevoherald.com\nprensalibre.com\nmundohispanico.com\nelle.mx\nunivision.com",
+    "adultcontent": "1",
+    "deviceOSinclude": "1",
+    "deviceOS": ["nil"],
+    "deviceID": ["nil"],
+    "deviceCategory": "-1",
+    "deviceMake": ["nil"],
+    "devicemodel": "nil",
+    "deviceosversion": "nil",
+    "carrierwhitelist": ["nil"],
+    "ispwhitelist": ["nil"],
+    "wifitargeting": "-1",
+    "country": "USA",
+    "postalcode": "nil",
+    "dma": "nil",
+    "dp_expression": "nil",
+    "packagename": "Videology_US_Hisp_MW_Skip",
+    "enabled_on_desktop": "0",
+    "enabled_on_mobile": "1",
+    "enabled_on_tablet": "1",
+    "desktopSelected": "false",
+    "MobSelected": "true",
+    "tabSelected": "true",
+    "DeviceTypeError": "false",
+    "states":["nil"],
+    "cities": ["nil"],
+    "designid":["nil"],
+    "site": ["nil"]
+
+   
+}

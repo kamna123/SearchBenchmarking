@@ -1,0 +1,63 @@
+{
+    
+    "adsize": [
+        "nil"
+    ],
+    "adformats": [
+       "nil"
+    ],
+    "gps": "nil",
+    "ifa": "nil",
+    "integration": [
+       "nil"
+    ],
+    "clickable": "nil",
+    "instream": "nil",
+    "incentivized": "nil",
+    "autoplay": "nil",
+    "sound": "nil",
+    "skippable": "nil",
+    "viewability": "nil",
+    "moat": "nil",
+    "adsizedesk": [
+       "nil"
+    ],
+    "adunitdesk": [
+       "nil"
+    ],
+
+    "apporwebtargetting": "1",
+    "categories": ["nil"],
+    "categoriesinclude": "1",
+    "domainbundleinclude": "1",
+    "domainbundle": "2conv.com\nallmusic.com\nalternativenation.net\naltpress.com\nanimelyrics.com\nanything2mp3.com\napple.com\naveriecooks.com\nazlyrics.com\nblabbermouth.net\ncastbox.fm\ncheatcc.com\nclashmusic.com\ncomplex.com\nconsequenceofsound.net\ncontactmusic.com\ncountryrebel.com\ncraveonline.com\ndailydot.com\ndiretube.com\ndjbooth.net\ndrownedinsound.com\nedm.com\nfactmag.com\nfrostwire.com\ngirlsaskguys.com\ngodvine.com\nguitaretab.com\nheraldextra.com\nhighsnobiety.com\nhiphopdx.com\nhiphopwired.com\nhotnewhiphop.com\nhoustonpress.com\nhypetrak.com\nidolator.com\niheart.com\niloveoldschoolmusic.com\nkeepvid.com\nlamusica.com\nletssingit.com\nlistentoyoutube.com\nlooperman.com\nloudwire.com\nlyricstranslate.com\nmakeuseof.com\nmetrolyrics.com\nmtv.com\nmusiccitymiracles.com\nmusixmatch.com\nnatashaskitchen.com\npandora.com\nplaybill.com\nprovidencejournal.com\nrapmusic.com\nrapzilla.com\nrateyourmusic.com\nscoopwhoop.com\nsde.co.ke\nslacker.com\nsongfacts.com\nsoompi.com\nstereoday.com\nstillrealtous.com\nsuperstarmagazine.com\ntechtimes.com\ntheplaylist.net\ntheprp.com\ntruthinsideofyou.org\ntunefind.com\nuproxx.com\nvh1.com\nvidoevo.com\nvillagevoice.com\nvosizneias.com\nvstorrent.net\nwestword.com\nwonderhowto.com\nyouredm.com\nzehabesha.com",
+    "adultcontent": "1",
+    "deviceOSinclude": "1",
+    "deviceOS": ["nil"],
+    "deviceID": ["nil"],
+    "deviceCategory": "-1",
+    "deviceMake": ["nil"],
+    "devicemodel": "nil",
+    "deviceosversion": "nil",
+    "carrierwhitelist": ["nil"],
+    "ispwhitelist": ["nil"],
+    "wifitargeting": "-1",
+    "country": "USA",
+    "postalcode": "nil",
+    "dma": "nil",
+    "dp_expression": "nil",
+    "packagename": "360i_Music_MW",
+    "enabled_on_desktop": "0",
+    "enabled_on_mobile": "1",
+    "enabled_on_tablet": "1",
+    "desktopSelected": "false",
+    "MobSelected": "true",
+    "tabSelected": "true",
+    "DeviceTypeError": "false",
+    "states":["nil"],
+    "cities": ["nil"],
+    "designid":["nil"],
+    "site": ["nil"]
+
+   
+}

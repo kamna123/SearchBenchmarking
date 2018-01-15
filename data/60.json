@@ -1,0 +1,63 @@
+{
+    
+    "adsize": [
+        "nil"
+    ],
+    "adformats": [
+       "nil"
+    ],
+    "gps": "nil",
+    "ifa": "nil",
+    "integration": [
+       "nil"
+    ],
+    "clickable": "nil",
+    "instream": "nil",
+    "incentivized": "nil",
+    "autoplay": "nil",
+    "sound": "nil",
+    "skippable": "nil",
+    "viewability": "nil",
+    "moat": "nil",
+    "adsizedesk": [
+       "nil"
+    ],
+    "adunitdesk": [
+       "nil"
+    ],
+
+    "apporwebtargetting": "0",
+    "categories": ["nil"],
+    "categoriesinclude": "1",
+    "domainbundleinclude": "1",
+    "domainbundle": "com.foxnews.android\ncom.cbs.sports.fantasy\ncom.synergycns.android.cbsradionews\ncom.slacker.radio\ncom.bamnetworks.mobile.android.gameday.atbat\ncom.laurencedawson.reddit_sync\nfree.reddit.news\ncom.usatoday.android.news\ncom.dailymail.online\ncom.abcdigital.abcnews\ncom.nytimes.android\ncom.thomsonreuters.reuters\nbbc.mobile.news.ww\ncom.zynga.looney\ncom.huffingtonpost.android",
+    "adultcontent": "1",
+    "deviceOSinclude": "1",
+    "deviceOS": ["nil"],
+    "deviceID": ["nil"],
+    "deviceCategory": "-1",
+    "deviceMake": ["nil"],
+    "devicemodel": "nil",
+    "deviceosversion": "nil",
+    "carrierwhitelist": ["nil"],
+    "ispwhitelist": ["nil"],
+    "wifitargeting": "-1",
+    "country": "USA",
+    "postalcode": "nil",
+    "dma": "nil",
+    "dp_expression": "nil",
+    "packagename": "Sony_playStation_Brian_GroupM",
+    "enabled_on_desktop": "0",
+    "enabled_on_mobile": "1",
+    "enabled_on_tablet": "1",
+    "desktopSelected": "false",
+    "MobSelected": "true",
+    "tabSelected": "true",
+    "DeviceTypeError": "false",
+    "states":["nil"],
+    "cities": ["nil"],
+    "designid":["nil"],
+    "site": ["nil"]
+
+   
+}

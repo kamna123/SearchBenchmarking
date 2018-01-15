@@ -1,0 +1,64 @@
+{
+    
+    "adsize": [
+        "nil"
+    ],
+    "adformats": [
+       "nil"
+    ],
+    "gps": "nil",
+    "ifa": "nil",
+    "integration": [
+       "nil"
+    ],
+    "clickable": "nil",
+    "instream": "nil",
+    "incentivized": "nil",
+    "autoplay": "nil",
+    "sound": "nil",
+    "skippable": "nil",
+    "viewability": "nil",
+    "moat": "nil",
+    "adsizedesk": [
+       "nil"
+    ],
+    "adunitdesk": [
+       "nil"
+    ],
+
+    "apporwebtargetting": "1",
+    "categories": [
+        "rty"
+    ],
+    "categoriesinclude": "1",
+    "domainbundleinclude": "1",
+    "domainbundle": "nfl.com\ngoal.com\nmlb.com\nnba.com\nbleacherreport.com\ncbssports.com\nnbcsports.com\nfoxsports.com\nespn.com\nespnfc.om\nnhl.com\npremierleague.com\nskysports.com\nrivals.com\nfifa.com\nmaxpreps.com\neurosport.com\nuefa.com\nufc.com\nscout.com\nmanunited.com\narsenal.com\nmotorsport.com\nrealmadrid.com\nncaa.com\nactive.com\nmlbtraderumors.com\nmmajunkie.com\ndallascowboys.com\nfcbarcelona.com\neuroleague.net\nchelseafc.com\nautosport.com\nfourfourtwo.com\nlivescore.com\nnascar.com\npatriots.com\nmlssoccer.com\nhgtv.com\nmoviefone.com\nmovieinsider.com\n247sports.com\ncountryliving.com\ntimeout.com\nfoodnetwork.com\ndoityourself.com\nelle.com\nyahoo.com\nhowstuffworks.com\nworldlifestyle.com\ntasteofhome.com\namc.com\ncrackle.com\ninstyle.com\ncinemablend.com\nehow.com\nhowtogeek.com\ncomplex.com\nrefinery29.com\ncoupons.com\nthehockeynews.com\ncosmopolitan.com\nrealsimple.com\nthekitchn.com\ndailymotion.com\nshopathome.com\ndiply.com\nign.com\nstylecaster.com\ngamespot.com\nfandango.com\ncollegehumor.com\nmarthastewart.com\nsimplerecipes.com\ncraveonline.com\ncomicbook.com\nstylecraze.com\ngoodhousekeeping.com\nelitedaily.com\ncafepress.com\nshape.com\nthefashionspot.com\nmovieweb.com\nrottentomatoes.com\nmarvel.com\nwarnerbros.com\nmovies.com\nblizzard.com\nactivision.com\ntotalbeauty.com\nsi.com\nvibe.com\nbet.com\ngivemesport.com\nespncricinfo.com\nsherdog.com\nthebiglead.com\nmmafighting.com\nharpersbazaar.com\ncracked.com\nhometalk.com",
+    "adultcontent": "1",
+    "deviceOSinclude": "1",
+    "deviceOS": ["nil"],
+    "deviceID": ["nil"],
+    "deviceCategory": "-1",
+    "deviceMake": ["nil"],
+    "devicemodel": "nil",
+    "deviceosversion": "nil",
+    "carrierwhitelist": ["nil"],
+    "ispwhitelist": ["nil"],
+    "country": "USA",
+    "postalcode": "nil",
+    "dma": "nil",
+    "dp_expression": "nil",
+    "packagename": "TTD_US_MW_Skettles",
+    "enabled_on_desktop": "0",
+    "enabled_on_mobile": "1",
+    "enabled_on_tablet": "1",
+    "desktopSelected": "false",
+    "MobSelected": "true",
+    "tabSelected": "true",
+    "DeviceTypeError": "false",
+   "states":["nil"],
+    "cities": ["nil"],
+    "designid":["nil"],
+    "site": ["nil"]
+
+   
+}

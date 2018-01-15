@@ -1,0 +1,61 @@
+{
+        "adsize": [
+        "nil"
+    ],
+    "adformats": [
+       "nil"
+    ],
+    "gps": "nil",
+    "ifa": "true",
+    "integration": [
+       "nil"
+    ],
+    "clickable": "nil",
+    "instream": "nil",
+    "incentivized": "nil",
+    "autoplay": "nil",
+    "sound": "nil",
+    "skippable": "nil",
+    "viewability": "nil",
+    "moat": "nil",
+    "adsizedesk": [
+       "nil"
+    ],
+    "adunitdesk": [
+       "nil"
+    ],
+    "apporwebtargetting": "0",
+    "categories": ["nil"],
+    "categoriesinclude": "1",
+    "domainbundleinclude": "1",
+    "domainbundle": "br.com.tapps.myboo\ncom.5mina.kisscheat\ncom.adar.cameracantik\ncom.ajnsnewmedia.kitchenstories\ncom.android.thewongandonly.QuickDraw\ncom.cheezburger.icanhas\ncom.dailymotion.dailymotion\ncom.ea.gp.bej3\ncom.emogoth.android.phone.mimi\ncom.fly.launcher\ncom.handmark.tweetcaster\ncom.ijinshan.kbatterydoctor_en\ncom.inboxdollars.InboxDollars\ncom.jqrapps.fastandslowmotionvideotool\ncom.jqrapps.slowmotionvideo\ncom.jqrapps.slowmotionvideo20\ncom.juteralabs.perktv\ncom.kiloo.subwaysurf\ncom.mega.cast\ncom.mentormate.android.inboxdollars\ncom.mobilityware.solitaire\ncom.movieclips.views\ncom.myYearbook.MyYearbook\ncom.outfit7.mytalkingangelafree\ncom.pinger.pingerphone2\ncom.pinger.side.line\ncom.pinger.textfree\ncom.pinger.textfree.call\ncom.pinger.textfreeVoiceWithVoicemail\ncom.pinger.textfreeWithVoice\ncom.preciselabs.teen_truth_and_dare_free\ncom.protectedio.app\ncom.sideline.phone.number\ncom.skout.SKOUT\ncom.surpax.ledflashlight.panel\ncom.thechive.Chive\ncom.velldrin.smartvoiceassistant\ncom.zeptolab.ctr.ads\ncom.zhiliaoapp.musically\ncom.zynga.wwf2.free\nes.eduxdream.ghost.detector\nfoodquiz.guessthefood\nmidasapps.fingertwister\nmidasapps.fingertwister2\ntv.bitx.media\ntv.bitx.media.cast",
+    "adultcontent": "1",
+    "deviceOSinclude": "1",
+    "deviceOS": ["nil"],
+    "deviceID": ["nil"],
+    "deviceCategory": "-1",
+    "deviceMake": ["nil"],
+    "devicemodel": "nil",
+    "deviceosversion": "nil",
+    "carrierwhitelist": ["nil"],
+    "ispwhitelist": ["nil"],
+    "wifitargeting": "-1",
+    "country": "USA",
+    "postalcode": "nil",
+    "dma": "nil",
+    "dp_expression": "nil",
+    "packagename": "4info_US_InApp_CTR",
+    "enabled_on_desktop": "0",
+    "enabled_on_mobile": "1",
+    "enabled_on_tablet": "1",
+    "desktopSelected": "false",
+    "MobSelected": "true",
+    "tabSelected": "true",
+    "DeviceTypeError": "false",
+    "states":["nil"],
+    "cities": ["nil"],
+    "designid":["nil"],
+    "site": ["nil"]
+
+   
+}

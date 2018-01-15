@@ -1,0 +1,61 @@
+{
+      "adsize": [
+        "nil"
+    ],
+    "adformats": [
+       "nil"
+    ],
+    "gps": "nil",
+    "ifa": "nil",
+    "integration": [
+       "nil"
+    ],
+    "clickable": "nil",
+    "instream": "nil",
+    "incentivized": "nil",
+    "autoplay": "nil",
+    "sound": "nil",
+    "skippable": "true",
+    "viewability": "nil",
+    "moat": "nil",
+    "adsizedesk": [
+       "nil"
+    ],
+    "adunitdesk": [
+       "nil"
+    ],
+    "apporwebtargetting": "0",
+    "categories": ["nil"],
+    "categoriesinclude": "1",
+    "domainbundleinclude": "1",
+    "domainbundle": "com.imgur.mobile\nes.eduxdream.ghost.detector\ncom.cleanmaster.mguard\ncom.roidapp.photogrid\ncom.gto.zero.zboost\ncom.jb.emoji.gokeyboard\ncom.bambuna.podcastaddict\ncom.mobileposse.client\ncom.zynga.wwf2.free\ncom.tubekids\ncom.outfit7.mytalkingangelafree\ncom.kidstube\ncom.ksmobile.launcher\ncom.icenta.sudoku.ui\ncom.vtube.app\ncom.cootek.smartinputv5\n306310789\ncom.zynga.words\ncom.jiubang.go.music\ncom.emoji.keyboard.touchpal\ncom.jb.zcamera\ncom.mega.cast\n525958087\ncom.mobdro.android\ncom.enflick.android.TextNow\ncom.myfitnesspal.android\ncom.outfit7.mytalkingtomfree\ncom.qihoo.security\ncom.utorrent.client\ncom.dianxinos.dxbs\ncom.turboc.cleaner\ncom.astarsoftware.heartslite\ncom.estrongs.android.pop\ncom.handcent.app.nextsms\ncom.dianxinos.optimizer.duplay\ncom.cleanmaster.security\ncom.cm.launcher\n1041547347\ncom.steam.photoeditor\n1055402534\ncom.psafe.msuite\ncom.weather.Weather\ncom.hermes.superb.booster\ncom.tmsoft.whitenoise.lite\ncom.dailymail.online\nusa.jersey.tvlistings\ncom.gau.go.launcherex\n1163777816\ncom.spacegame.basic3\ncom.scannerradio\ncom.shozila.spades\n299948601\ncom.fortafygames.colorswitch\ncom.etermax.preguntados.lite\ncom.flashlight.brightestflashlightpro\ncom.jiubang.fastestflashlight\ncom.fiogonia.yatzy\ncom.notabasement.mangarock.android.mckinley\nDataNotAvailable\n1193508329\ncom.jb.gosms\ncom.lulo.scrabble.classicwords\ncom.powerd.cleaner\ncom.slacker.radio\ncom.pic.photoeditor\nwp.wattpad\n1081552491\ncom.bandagames.mpuzzle.gp\ncom.happy2.bbmanga\nde.stefanpledl.localcast\ncom.surpax.ledflashlight.panel\ncom.slidejoy\ncom.firecrackersw.wordbreaker\ncom.fw.appshare\ncom.ea.scrabblefree_na\ncom.madebyappolis.spinrilla\nmedia.audioplayer.musicplayer\nfree.reddit.news\ncom.jaredco.regrann\ncom.brainium.sudoku.free\ndroom.sleepIfUCan\ncom.speakati.solitaire\ncom.blue.battery\nmy.googlemusic.play\ncom.jangomobile.android\ncom.espn.score_center\n1041545937\ncom.grindrapp.android\ncom.firsttouchgames.story\ncom.allrecipes.spinner.free\ncom.duapps.cleaner\ncom.accuweather.android\ncom.nytimes.android\ncom.zithromia.hearts\ncom.superopt.cleaner\ncom.fiogonia.dominoes\ncom.podcast.podcasts\ncom.skyfire.browser.toolbar\ncom.estrongs.locker\n298307011\ncom.hbwares.wordfeud.free\ncom.gramgames.london.bounzy\nemoji.keyboard.emoticonkeyboard\n687877464\nuk.co.aifactory.backgammonfree\ncom.audiomack\ncom.speakati.ginrummy\ncom.lionmobi.powerclean\n519675128\ncom.laurencedawson.reddit_sync\ncom.jb.networkspeed\ncom.vtools.qrcodescanner\ncom.camerasideas.instashot\n429610587\nmobi.ifunny\ncom.5mina.tile123\n1057860506\ncom.fmgames1.solitaire\ndevian.tubemate.home\ncom.kathleenOswald.solitaireGooglePlay\n1182341536\nsh.whisper\ncom.sphinx.lolpics\ncom.clean.security.memory.booster.battery\ncom.detectunfollowers\n292987597\ncom.lab465.SmoreApp\ncom.gau.go.launcherex.gowidget.weatherwidget\nnet.beautyincorporated.android_runwaysalon\ncom.velldrin.smartvoiceassistant\n1161444350\ncom.arcsoft.perfect365\n478687481\ncom.tabtale.candyblash\ncom.zynga.chess.googleplay\n653967729\n652945710\ncom.duapps.antivirus\nle.lenovo.sudoku\ncom.pinger.textfree\ncom.aws.android\ncom.astarsoftware.hearts\ncom.koushikdutta.cast\n1225888584\ncom.digitalchemy.calculator.freedecimal\n432750508\ncom.astarsoftware.spades\ncom.mentormate.android.inboxdollars\nde.lotum.whatsinthefoto.fr\ncom.mobilityware.solitaire\ncom.ketchapp.ballz\ncom.iavian.dreport\n639881495\nmedia.music.musicplayer\ncom.textmeinc.textme\ncom.craftgames.worldcrft\ncom.honeycomb.launcher\ncom.convex.movietime\ncom.outfit7.talkingben\ncom.lab465.SmoreApp.dev\nuk.co.aifactory.sudokufree\ncom.ace.cleaner\ncom.apalon.myclockfree\ncom.djloboapp.djlobo\ncom.rhythmnewmedia.tmz\ncom.magmamobile.game.SpiderSolitaire\nuk.co.aifactory.chessfree\ncom.hypermedia.songflip\ncom.qihoo.batterysaverplus\ncom.zynga.scramble\n398990729\ncom.taggedapp\ncom.photo.collage.editor.pro\ncom.droid27.transparentclockweather\ncom.tapinator.transport.trucker\nse.maginteractive.rumble.free\ncom.photo.editor.cartoon\ncom.google.android.apps.magazines\n1040608649\ncom.cmcm.locker\n377869410\ncom.outfit7.talkingtom\nuk.co.aifactory.euchrefree\n804379658\nuk.co.aifactory.solitairefree\ncom.fitnow.loseit\nfc.clean.security.memory.booster.battery\ncom.july.univision\ncom.kicksonfire.android\ncom.emogoth.android.phone.mimi\ncom.bigduckgames.flow\ncom.adar.cameracantik\ncom.jiubang.alock\ncom.recommended.moto\ncom.onelouder.baconreader\ncom.jiubang.darlingclock\ncom.latininput.keyboard\ncom.leftover.CoinDozer\ngbis.gbandroid\ncom.wildtangent.spades\ncom.randomlogicgames.crossword\ncom.withbuddies.yahtzee\nde.smuttlewerk.fleetbattle\n495583717\ncom.jb.gokeyboardpro\ncom.zynga.matching\nbr.com.golmobile.nypost\ncom.miniclip.plagueinc\ncom.eliferun.music\nfr.x_studios.x_laser_2\nbibleverses.bibleverse.bible.biblia.verse.devotion\nfr.cookbook\ncom.gameresort.stupidzombies\ncom.estoty.game2048\ncom.tesseractmobile.solitairefreepack\nmedia.mp3.audio.musicplayer\nkr.co.vcnc.android.couple\ncom.jb.freecall\ncom.kidsworld.surpriseeggsgame\ncom.droidworks.android.alexjones\ncom.calfordcn.gu\n387301602\ncom.qihoo.security.lite\ncom.andrewshu.android.reddit\ncom.drillyapps.babydaybook\ncom.stuckpixelinc.funnypics\ncom.game.solitaireclassics\nnet.zedge.android\naudio.mp3.music.player\nvn.esse.vpet\ncom.ketchapp.rider\n341232718\n420447115\ncom.cracked.android.lite\n439873467\nmobi.adme\nuk.co.aifactory.ginrummyfree\ncom.ketchapp.thefloorislava\ncom.crosstone.ginrummy\n418987775\ncom.jb.gokeyboard\nme.tombailey.skinsforminecraftpe\n356336433\ncom.frostwire.android\ncom.clean.booster.security.battery.memory\n335445524\ncom.cbs.app\ncom.android.thewongandonly.QuickDraw\ncom.timgostony.rainrain\ncom.fingersoft.hillclimb\ncom.sgiggle.production\ncom.mega_mc.mcpeskinstudio\ncom.jsdev.instasize\ncom.agminstruments.drumpadmachine\ncom.akasoft.topplaces\n388838723\ncom.gamehivecorp.beattheboss4\ncom.glidetalk.glideapp\ncom.xe.currency\ncom.zeroteam.zerolauncher\ncom.b2creativedesigns.b2lovecalculator\ncom.radio.station.PIOLIN.DJ\n967422975\ncom.multimedia.player\ncom.astarsoftware.euchre\n502317923\ncom.booster.clean.memory.security.speed\ncom.freegame.solitaire.basic2\ncom.cbs.sports.fantasy\nbubbleshooter.orig\ncom.maildroid\ncom.flightview.flightview_free\ncom.apprope.wordsearch\ncom.zinkia.pocoyo.runfun\ncom.rexetstudio.prophuntportable\ncom.mobilityware.spider\n520502858\ncom.toi.reader.activities\ncom.coolmango.sudokufun\ncn.rtfsc.searchmanga\ncom.lima.doodlejump\nmedia.mp3player.musicplayer\n399452287\nmidasapps.fingertwister\ncom.rocket.clean\ncom.movietime.tv\ncom.fiksu.fma.android\ncom.onecwireless.mahjong\ncom.tabtale.tailorboutique\ncom.kodarkooperativet.blackplayerfree\ncom.rexetstudio.deathrunportable\ncom.pt.wshhp\n1163798425\ncom.investorvista.stockspyod\ncom.nighp.babytracker_android\ncom.kitkatandroid.keyboard\n414569920\ncom.fshareapps.android\ncom.studiosol.palcomp3\ncom.mobilesrepublic.appy\ncom.headcode.ourgroceries\nair.com.tectum.sudoku\nuk.co.aifactory.spadesfree\nbbc.mobile.news.ww\ncom.game.JewelsStar\ncom.cnn.mobile.android.phone\ncom.l\ncom.spacegame.solitaire.basic\n593715088\ncom.ninegag.android.app\ncom.ray.ligna.icons.free\nmidasapps.fingertwister2\ncom.lab465.smoreapp\ncom.pteam.camera\ncom.spcomes.jquest\ncom.fastemulator.gbafree\ncom.skout.android\n482807743\ncom.malangstudio.alarmmon\ncom.usatoday.android.news\ncom.scores365\ntunein.player\ncaller.id.phone.number.block\ncom.cheezburger.icanhas\nuk.co.aifactory.checkersfree\ncom.ea.gp.bej3\ncom.itube.colorseverywhere\ncom.gamecircus.CoinDozerJackpot.amz\ncom.airkast.WABCAM\ncom.indigokids.mimdoctor\nhu.appcoder.solitaire\ncom.nix.game.mahjong\ncom.fully.clean\ncom.rcplatform.nocrop\ncom.game.BubbleShooter\ncom.piano.music_tiles\ncom.games2win.friendsforever\n1200921809\ncom.mgensuite.life.lockscreen\n1057844059\ncom.oovoo\ncom.leodesol.games.puzzlecollection\ncom.gameresort.sz2google\nme.bosegoogle.app\ncom.green.cleaner\ncom.istomgames.engine\ncom.magmamobile.game.BubbleBlastBoxes\n642831690\n434781441\nio.casper.android\ncom.ea.game.simcitymobile_row\ncom.juhyungju.News\ncom.univision.noticias\ncom.tabtale.teacher\ncom.outfit7.mytalkinghank\ncom.musicplayer.player.mp3player.white\ncom.urbandroid.sleep\ncom.huffingtonpost.android\n1229618961\ncom.handmark.sportcaster\ncom.riftergames.onemorebrick\n1200891906\ncom.rexetstudio.murdergameportable",
+    "adultcontent": "1",
+    "deviceOSinclude": "1",
+    "deviceOS": ["nil"],
+    "deviceID": ["nil"],
+    "deviceCategory": "-1",
+    "deviceMake": ["nil"],
+    "devicemodel": "nil",
+    "deviceosversion": "nil",
+    "carrierwhitelist": ["nil"],
+    "ispwhitelist": ["nil"],
+    "wifitargeting": "-1",
+    "country": "USA",
+    "postalcode": "nil",
+    "dma": "nil",
+    "dp_expression": "nil",
+    "packagename": "Mars_Q3_PMP_APP_DBM",
+    "enabled_on_desktop": "0",
+    "enabled_on_mobile": "1",
+    "enabled_on_tablet": "1",
+    "desktopSelected": "false",
+    "MobSelected": "true",
+    "tabSelected": "true",
+    "DeviceTypeError": "false",
+    "states":["nil"],
+    "cities": ["nil"],
+    "designid":["nil"],
+    "site": ["nil"]
+
+   
+}

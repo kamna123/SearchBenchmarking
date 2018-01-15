@@ -1,0 +1,63 @@
+{
+    
+    "adsize": [
+        "nil"
+    ],
+    "adformats": [
+       "nil"
+    ],
+    "gps": "nil",
+    "ifa": "nil",
+    "integration": [
+       "nil"
+    ],
+    "clickable": "nil",
+    "instream": "nil",
+    "incentivized": "nil",
+    "autoplay": "nil",
+    "sound": "nil",
+    "skippable": "nil",
+    "viewability": "nil",
+    "moat": "nil",
+    "adsizedesk": [
+       "nil"
+    ],
+    "adunitdesk": [
+       "nil"
+    ],
+
+    "apporwebtargetting": "1",
+    "categories": ["nil"],
+    "categoriesinclude": "1",
+    "domainbundleinclude": "1",
+    "domainbundle": "abs-cbn.com\naccuweather.com\nallkpop.com\nalternativemediasyndicate.com\naol.com\nas.com\natlasobscura.com\nautobild.es\nawm.com\nbalkanweb.com\nbizpacreview.com\nbluelivesmatter.blue\nbusinessinsider.com\ncanalrcn.com\ncbslocal.com\ncbssports.com\nchicagotribune.com\ncnn.com\ncookingclassy.com\ncosmopolitan.com\ncracked.com\ncruisingworld.com\ndailymail.co.uk\ndallasnews.com\ndisqus.com\ndivadepressao.com.br\ndramacity.se\ndramacool.to\ndramalove.tv\ndrudgereport.com\nebookers.com\neldiariony.com\nelle.com\nellentube.com\neluniversal.com.mx\nentravision.com\nflyertalk.com\nfoxnews.com\nfreedomdaily.com\nfullmatchesandshows.com\ngamessupreme.com\ngravitytales.com\nguchill.com\nheadlinepolitics.com\nheatst.com\nhollywood.com\nhpdetijd.nl\nidiva.com\niflscience.com\nindependent.co.uk\nindiewire.com\njoovideo.tv\nkissanime.ru\nkissmanga.com\nkorvideo.com\nktnv.com\nlaopinion.com\nlaprensa.hn\nlaprovincia.es\nlatimes.com\nlistverse.com\nlittlethings.com\nmarutv.com\nmediaresponse.es\nmentalfloss.com\nmlb.com\nnationalreview.com\nnbclosangeles.com\nnbcnews.com\nnewyorker.com\nnhl.com\nnicerdays.org\nnytimes.com\noccupydemocrats.com\noprah.com\npandora.tv\npeople.com\npolitico.com\npopularmechanics.com\npost-gazette.com\npregnantchicken.com\nqpolitical.com\nreadlightnovel.com\nrealfarmacy.com\nrealitysteve.com\nrealsimple.com\nrealtimepolitics.com\nredtri.com\nroyalroadl.com\nrpgsite.net\nrt.com\nrumble.com\nsciencealert.com\nshareably.net\nshopathome.com\nsouthernplate.com\nspace.com\nsteadyhealth.com\nstltoday.com\ntelly-trader.me\ntfc.tv\nthebiglead.com\ntheblackloop.com\ntheblaze.com\nthedailybeast.com\nthedrive.com\nthefabgab.co\nthefashionspot.com\nthegatewaypundit.com\ntheguardian.com\nthehill.com\ntoofab.com\ntownandcountrymag.com\ntravelhackz.com\ntruthexaminer.com\ntruyenfull.vn\ntvarticles.me\ntvdosti.me\ntvtropes.org\ntwitch.tv\nuesp.net\nunilad.co.uk\nvanityfair.com\nvice.com\nviewster.com\nvnexpress.net\nvox.com\nvozpopuli.com\nwashingtonpost.com\nwikia.com\nwikihow.com\nwnyt.com\nwordfind.com\nwordpress.com\nworldstarhiphop.com\nwrestlinginc.com\nwthr.com\nwunderground.com\nwuxiaworld.com\nyesimright.com\nzeldadungeon.net",
+    "adultcontent": "1",
+    "deviceOSinclude": "1",
+    "deviceOS": ["nil"],
+    "deviceID": ["nil"],
+    "deviceCategory": "-1",
+    "deviceMake": ["nil"],
+    "devicemodel": "nil",
+    "deviceosversion": "nil",
+    "carrierwhitelist": ["nil"],
+    "ispwhitelist": ["nil"],
+    "wifitargeting": "-1",
+    "country": "USA",
+    "postalcode": "nil",
+    "dma": "nil",
+    "dp_expression": "nil",
+    "packagename": "4info_US_Site_VCR",
+    "enabled_on_desktop": "0",
+    "enabled_on_mobile": "1",
+    "enabled_on_tablet": "1",
+    "desktopSelected": "false",
+    "MobSelected": "true",
+    "tabSelected": "true",
+    "DeviceTypeError": "false",
+    "states":["nil"],
+    "cities": ["nil"],
+    "designid":["nil"],
+    "site": ["nil"]
+
+   
+}

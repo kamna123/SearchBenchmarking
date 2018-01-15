@@ -1,0 +1,63 @@
+{
+    
+    "adsize": [
+        "nil"
+    ],
+    "adformats": [
+       "nil"
+    ],
+    "gps": "nil",
+    "ifa": "nil",
+    "integration": [
+       "nil"
+    ],
+    "clickable": "nil",
+    "instream": "nil",
+    "incentivized": "nil",
+    "autoplay": "nil",
+    "sound": "nil",
+    "skippable": "nil",
+    "viewability": "nil",
+    "moat": "nil",
+    "adsizedesk": [
+       "nil"
+    ],
+    "adunitdesk": [
+       "nil"
+    ],
+
+    "apporwebtargetting": "1",
+    "categories": ["nil"],
+    "categoriesinclude": "1",
+    "domainbundleinclude": "1",
+    "domainbundle": "airg.com\npairade.com\nsportzwiki.com\ntechradar.com\nsundaycouponpreview.com\nafullcup.com\nthestorypedia.com\nvegassports-odds.com\ntiptrot.com\nwashingtonjournal.com\nwnol.info\ntechkenyot.com\nibusinesslines.com\nbada.tv\ngiftedviz.com\nteknolojiarsivi.com\netvfutures.com\nmaplestage.com\ntheculturetrip.com\nprensaestatal.com\njournalistate.com\ntruyenfull.vn\nreverepress.com\nemfizz.com\nguchill.com\ngamesindustryblog.com\nnovelplanet.com\nscmp.com\nbabymed.com\ntwentytwowords.com\nyournewswire.com\ninfospesial.net\nnuttyfeed.com\nprofishingrods.com\nikoreantv.com\nrelayhero.com\nbing.com\nyahoo.com\ninspiremore.com\ngpolit.com\nhealthyway.com\npopularmilitary.com\nwittyfeed.com\njohnpavlovitz.com\nwhereisdown.com\nconservativetribune.com\ntoptestmotor.com\nusmclife.com\nmmaimports.com\nchip.co.id\npatrika.com\ntickld.com\ngooglesyndication.com\nlifedaily.com\nmadworldnews.com\nhealthy-holistic-living.com\ndailysuperheroes.com\ngopairde.com\nh265.se\nwittyfeed.me\nmother.ly\nidg.com.au\npairdetrending.com\nteamtalk.com\nasianetnews.tv\namericannews.com\nsarahpalin.com\ntaskandpurpose.com\nmcclatchydc.com\nmangafox.me\nopposingviews.com\nlakeelmoleader.com\nattitude.co.uk\nkoreaboo.com\nnewsnow.co.uk\nwuxiaworld.com\namericanpregnancy.org\nestacaogeek.com\nfrozenmail.net\njqpublicblog.com\njagranjosh.com\nsickchirpse.com\nyachtworld.com\nyeahmotor.com\neconomicinform.com\nsltrib.com\ninquisitr.com\nlosangelesnewstoday.com\nbadtameezdil.net\nkrpress.ru\nariseresist.com\nlistenonrepeat.com\ngoodmenproject.com\ntrueactivist.com\nuschronicle.com\nfacebook.com\npairdestory.com\nrenegadebusdallas.com\nkazanherald.com\nprowrestling.com\ngoogle.com\n101greatgoals.com\nt-nation.com\nminglebox.com\ntinyfav.com\nwesternjournalism.com\namericanow.com\nconservativefighters.com\nmentertained.com\npostize.com\nampproject.org\ntoocool2betrue.com\nurbo.com\nyouknowdogs.com\nfactinate.com\ngearnuke.com\nhubii.com\nlibertyonenews.com\nworldlifestyle.com\nheroichollywood.com\nbostonamigos.com\nyoungcons.com\npudelek.pl\nchannel3000.com\ndynonline.net\ndesitvbox.net\nbolasport.com\ngladedaily.com\nkansascity.com\nleoaffairs.com\nlooper.com\ngrunge.com\nmashable.com\nwatchthis.com\nundergroundnewsroom.com\nnewsmoments.net\ngoogle.com.au\nbusiness2community.com\nprogresstribune.com\nchevroletforum.com\nmiamiherald.com\nliftable.com\nindiatvnews.com\nteslarati.com\nclosetcooking.com\nephotozine.com\njustonlinegames.com\nhuvle.com\njeepforum.com\nseamagazine.com\noperationsports.com\nleftlanenews.com\naudiforums.com\nfordforums.com\nhondaforum.com\nlandroverforums.com\ndodgeforum.com\naudiworld.com\ntoyotaownersclub.com\ntoucharcade.com\ntalkwithstranger.com\nnetdriven.com\nroadfly.com\nautobytel.com\nbimmerpost.com\nlandroverforum.com\nlandroversonly.com\nbenzworld.org\nbimmerforums.com",
+    "adultcontent": "1",
+    "deviceOSinclude": "1",
+    "deviceOS": ["nil"],
+    "deviceID": ["nil"],
+    "deviceCategory": "-1",
+    "deviceMake": ["nil"],
+    "devicemodel": "nil",
+    "deviceosversion": "nil",
+    "carrierwhitelist": ["nil"],
+    "ispwhitelist": ["nil"],
+    "wifitargeting": "-1",
+    "country": "CAN",
+    "postalcode": "nil",
+    "dma": "nil",
+    "dp_expression": "nil",
+    "packagename": "Mediamath_outstream_CA_MW",
+    "enabled_on_desktop": "0",
+    "enabled_on_mobile": "1",
+    "enabled_on_tablet": "1",
+    "desktopSelected": "false",
+    "MobSelected": "true",
+    "tabSelected": "true",
+    "DeviceTypeError": "false",
+    "states":["nil"],
+    "cities": ["nil"],
+    "designid":["nil"],
+    "site": ["nil"]
+
+   
+}

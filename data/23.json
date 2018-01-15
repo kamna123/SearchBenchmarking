@@ -1,0 +1,63 @@
+{
+    
+    "adsize": [
+        "nil"
+    ],
+    "adformats": [
+       "nil"
+    ],
+    "gps": "nil",
+    "ifa": "nil",
+    "integration": [
+       "nil"
+    ],
+    "clickable": "nil",
+    "instream": "nil",
+    "incentivized": "nil",
+    "autoplay": "nil",
+    "sound": "nil",
+    "skippable": "nil",
+    "viewability": "nil",
+    "moat": "nil",
+    "adsizedesk": [
+       "nil"
+    ],
+    "adunitdesk": [
+       "nil"
+    ],
+
+    "apporwebtargetting": "1",
+    "categories": ["nil"],
+    "categoriesinclude": "1",
+    "domainbundleinclude": "1",
+    "domainbundle": "12tomatoes.com\nabout.com\nAccuweather.com\naddapinch.com\nallrecipes.com\nanswers.com\nauthoritynutrition.com\nBarrons.com\nBeaumontEnterprise.com\nbeeradvocate.com\nBloomberg.com\nboredpanda.com\nBusinessInsider.com\nCBS.com\nCBSNews.com\nChicagoTribune.com\nchowhound.com\nCNET.com\nConservativeTribune.com\ncookingclassy.com\ncountryliving.com\nCTPost.com\nDailyPress.com\ndamndelicious.net\nDetroitNews.com\ndiply.com\ndisneydining.com\ndose.com\neater.com\neatingwell.com\nevite.com\nexaminer.com\nfacilisimo.com\nfood.com\nfood52.com\nfoodnetwork.com\nForbes.com\nFOXBusiness.com\nfoxnews.com\ngimmesomeoven.com\ngoodhousekeeping.com\nGreenwichTime.com\nhealth.com\nHearst.com\nhubpages.com\niheartnaptime.net\nInquisitr.com\nInsideEdition.com\nKCCI.com\nKETV.com\nKITV.com\nKOCO.com\nkraftrecipes.com\nLATimes.com\nLatinTimes.com\nLAWeekly.com\nlilluna.com\nmenupix.com\nmindbodygreen.com\nmoneysavingmom.com\nmotherearthnews.com\nmrfood.com\nmyrecipes.com\nNASDAQ.com\nNBCLosAngeles.com\nNBCNewYork.com\nNewsInc.com\nNewstimes.com\nNewsweek.com\nonceuponachef.com\nonegoodthingbyjillee.com\nOrlandoSentinel.com\npassionforsavings.com\npauladeen.com\nPhilly.com\nplainchicken.com\nrachaelraymag.com\nrealsimple.com\nrecipe.com\nReuters.com\nsallysbakingaddiction.com\nSFGate.com\nsimplyrecipes.com\nsixsistersstuff.com\nskinnytaste.com\nsnagajob.com\nsparkpeople.com\nStamfordAdvocate.com\nthe-girl-who-ate-everything.com\nTheGuardian.com\nTheHill.com\nthekitchn.com\nTheStreet.com\nTIME.com\nTimesunion.com\ntiphero.com\ntopix.com\nUniversityHerald.com\nUSAToday.com\nWashingtonPost.com\nWBALTV.com\nWCVB.com\nWGAL.com\nwhatscookingamerica.net\nWLKY.com\nWLWT.com\nWMTW.com\nWMUR.com\nwonderhowto.com\nWXII12.com\nWYFF4.com",
+    "adultcontent": "1",
+    "deviceOSinclude": "1",
+    "deviceOS": ["nil"],
+    "deviceID": ["nil"],
+    "deviceCategory": "-1",
+    "deviceMake": ["nil"],
+    "devicemodel": "nil",
+    "deviceosversion": "nil",
+    "carrierwhitelist": ["nil"],
+    "ispwhitelist": ["nil"],
+    "wifitargeting": "-1",
+    "country": "USA",
+    "postalcode": "nil",
+    "dma": "nil",
+    "dp_expression": "nil",
+    "packagename": "360i_TTD_US_LDA",
+    "enabled_on_desktop": "0",
+    "enabled_on_mobile": "1",
+    "enabled_on_tablet": "1",
+    "desktopSelected": "false",
+    "MobSelected": "true",
+    "tabSelected": "true",
+    "DeviceTypeError": "false",
+    "states":["nil"],
+    "cities": ["nil"],
+    "designid":["nil"],
+    "site": ["nil"]
+
+   
+}

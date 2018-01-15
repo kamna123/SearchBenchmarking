@@ -1,0 +1,63 @@
+{
+    
+    "adsize": [
+        "nil"
+    ],
+    "adformats": [
+       "nil"
+    ],
+    "gps": "nil",
+    "ifa": "nil",
+    "integration": [
+       "nil"
+    ],
+    "clickable": "nil",
+    "instream": "true",
+    "incentivized": "nil",
+    "autoplay": "nil",
+    "sound": "nil",
+    "skippable": "nil",
+    "viewability": "nil",
+    "moat": "nil",
+    "adsizedesk": [
+       "nil"
+    ],
+    "adunitdesk": [
+       "nil"
+    ],
+
+    "apporwebtargetting": "1",
+    "categories": ["nil"],
+    "categoriesinclude": "1",
+    "domainbundleinclude": "1",
+    "domainbundle": "miamiherald.com\ntheblaze.com\nallenbwest.com\nkansascity.com\nmercurynews.com\nsacbee.com\ncharlotteobserver.com\nbostonherald.com\nstar-telegram.com\nkentucky.com\nwashingtonexaminer.com\nnewsobserver.com\nbnd.com\nclark.com\nkansas.com\nwtop.com\nthestate.com\namericanthinker.com\ntampabay.com\nelnuevoherald.com\nthenewstribune.com\nbradenton.com\nsltrib.com\nrealclearpolitics.com\nthehill.com\nmodbee.com\nap.org\nreviewjournal.com\npolitifact.com\nledger-enquirer.com\neastbaytimes.com\ncentredaily.com\nfresnobee.com\nsunherald.com\nmacon.com\nmcclatchydc.com\nidahostatesman.com\nchron.com\nsanluisobispo.com\nusnews.com\ntri-cityherald.com\nthegrio.com\nislandpacket.com\nheraldonline.com\ntheolympian.com\nbellinghamherald.com\nmercedsunstar.com\nthetelegraph.com\nmyrtlebeachonline.com\ntimesleader.com\nrollcall.com\ntwincities.com\nflkeysnews.com\nmysanantonio.com\nstripes.com\nredalertpolitics.com\nfredericksburg.com\nomaha.com\nwashingtontimes.com\nbreitbart.com\nrobesonian.com\ndaily-journal.com\nnatchezdemocrat.com\nnwfdailynews.com\nchieftain.com\nseattlepi.com\nmtairynews.com\nlimaohio.com\ntimesunion.com\nwilmingtonmugshots.com\nwnewsj.com\ndailynews.com\nmugshotsocala.com\nhoumatoday.com\ndaytonamugshots.com\nherald-dispatch.com\ngadsdentimes.com\ngastongazette.com\nmugshotsgainesville.com\ntheindependent.com\noanow.com\nmarinij.com\nnewsherald.com\nnhregister.com\nkearneyhub.com\nsidneydailynews.com\ngoupstate.com\nthetimesnews.com\njeffersonpost.com\ntulsaworld.com\nsierrastar.com\nwilliamsondailynews.com\nmyjournalcourier.com\ndailyfreeman.com\ndailybreeze.com\nthefiscaltimes.com\nportsmouth-dailytimes.com\nharlandaily.com\ndailycamera.com",
+    "adultcontent": "1",
+    "deviceOSinclude": "1",
+    "deviceOS": ["nil"],
+    "deviceID": ["nil"],
+    "deviceCategory": "-1",
+    "deviceMake": ["nil"],
+    "devicemodel": "nil",
+    "deviceosversion": "nil",
+    "carrierwhitelist": ["nil"],
+    "ispwhitelist": ["nil"],
+    "wifitargeting": "-1",
+    "country": "AUS",
+    "postalcode": "nil",
+    "dma": "nil",
+    "dp_expression": "nil",
+    "packagename": "Mediamath_PreRoll_AU_MW",
+    "enabled_on_desktop": "0",
+    "enabled_on_mobile": "1",
+    "enabled_on_tablet": "1",
+    "desktopSelected": "false",
+    "MobSelected": "true",
+    "tabSelected": "true",
+    "DeviceTypeError": "false",
+    "states":["nil"],
+    "cities": ["nil"],
+    "designid":["nil"],
+    "site": ["nil"]
+
+   
+}

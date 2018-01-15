@@ -1,0 +1,81 @@
+{
+    
+    "adsize": [
+        "nil"
+    ],
+    "adformats": [
+       "nil"
+    ],
+    "gps": "nil",
+    "ifa": "nil",
+    "integration": [
+       "nil"
+    ],
+    "clickable": "nil",
+    "instream": "nil",
+    "incentivized": "nil",
+    "autoplay": "nil",
+    "sound": "nil",
+    "skippable": "nil",
+    "viewability": "nil",
+    "moat": "nil",
+    "adsizedesk": [
+       "nil"
+    ],
+    "adunitdesk": [
+       "nil"
+    ],
+
+    "apporwebtargetting": "0",
+    "categories": ["nil"],
+    "categoriesinclude": "1",
+    "domainbundle": "nil",
+    "domainbundleinclude": "1",
+    "adultcontent": "1",
+    "deviceOSinclude": "1",
+    "deviceOS": ["nil"],
+    "deviceID": ["nil"],
+    "deviceCategory": "-1",
+    "deviceMake": ["nil"],
+    "devicemodel": "nil",
+    "deviceosversion": "nil",
+    "carrierwhitelist": ["nil"],
+    "ispwhitelist": ["nil"],
+    "wifitargeting": "-1",
+    "country": "USA",
+    "postalcode": "nil",
+    "dma": "nil",
+    "dp_expression": [
+        [
+            "{\"id\":\"6252\",\"provider_prefix\":\"BK_\",\"category_id\":\"6252\",\"parent_id\":\"34058\",\"isselectable\":\"1\",\"category_name\":\"Veteran\",\"category_description\":\"This category contains people who are veterans.\",\"cpm\":\"1.5\",\"path\":\"Bluekai:Agriculture Industry Professionals:Veteran\",\"map\":[\"6252\",\"573853\"],\"catsel\":\"BK_6252\"}",
+            "{\"id\":\"24276\",\"provider_prefix\":\"BK_\",\"category_id\":\"24276\",\"parent_id\":\"11779\",\"isselectable\":\"1\",\"category_name\":\"Separated\",\"category_description\":\"This category contains people who describe their marital status as separated or divorced.\",\"cpm\":\"3\",\"path\":\"Bluekai:Keeping Up With The Kardashians:Separated\",\"map\":[\"24276\",\"244344\"],\"catsel\":\"BK_24276\"}",
+            "{\"id\":\"24744\",\"provider_prefix\":\"BK_\",\"category_id\":\"24744\",\"parent_id\":\"7\",\"isselectable\":\"1\",\"category_name\":\"18-20\",\"category_description\":\"This category contains people who are 18-20 years old.\",\"cpm\":\"1.93\",\"path\":\"Bluekai:Aeropostale:Las Vegas (All Airports):QX50:QX-Series:Genesis:NSX:18-20\",\"map\":[\"24744\",\"2303\",\"7487\",\"2421\",\"372152\",\"49654\",\"503554\"],\"catsel\":\"BK_24744\"}",
+            "{\"id\":\"27002\",\"provider_prefix\":\"BK_\",\"category_id\":\"27002\",\"parent_id\":\"7\",\"isselectable\":\"1\",\"category_name\":\"65 & Older\",\"category_description\":\"This category contains people who are 65 or more years old.\",\"cpm\":\"0.75\",\"path\":\"Bluekai:Aeropostale:Las Vegas (All Airports):QX50:QX-Series:Genesis:NSX:65 & Older\",\"map\":[\"27002\",\"2303\",\"7487\",\"2421\",\"372152\",\"49654\",\"503554\"],\"catsel\":\"BK_27002\"}",
+            "{\"id\":\"31114\",\"provider_prefix\":\"BK_\",\"category_id\":\"31114\",\"parent_id\":\"11779\",\"isselectable\":\"1\",\"category_name\":\"Married\",\"category_description\":\"This category contains people who are married.\",\"cpm\":\"0.83\",\"path\":\"Bluekai:Keeping Up With The Kardashians:Married\",\"map\":[\"31114\",\"244344\"],\"catsel\":\"BK_31114\"}",
+            "{\"id\":\"34061\",\"provider_prefix\":\"BK_\",\"category_id\":\"34061\",\"parent_id\":\"7\",\"isselectable\":\"1\",\"category_name\":\"21-29\",\"category_description\":\"This category contains people who are 21-29 years old.\",\"cpm\":\"1.1\",\"path\":\"Bluekai:Aeropostale:Las Vegas (All Airports):QX50:QX-Series:Genesis:NSX:21-29\",\"map\":[\"34061\",\"2303\",\"7487\",\"2421\",\"372152\",\"49654\",\"503554\"],\"catsel\":\"BK_34061\"}",
+            "{\"id\":\"34062\",\"provider_prefix\":\"BK_\",\"category_id\":\"34062\",\"parent_id\":\"7\",\"isselectable\":\"1\",\"category_name\":\"30-39\",\"category_description\":\"This category contains people who are 30-39 years old.\",\"cpm\":\"1.1\",\"path\":\"Bluekai:Aeropostale:Las Vegas (All Airports):QX50:QX-Series:Genesis:NSX:30-39\",\"map\":[\"34062\",\"2303\",\"7487\",\"2421\",\"372152\",\"49654\",\"503554\"],\"catsel\":\"BK_34062\"}",
+            "{\"id\":\"34063\",\"provider_prefix\":\"BK_\",\"category_id\":\"34063\",\"parent_id\":\"7\",\"isselectable\":\"1\",\"category_name\":\"40-49\",\"category_description\":\"This category contains people who are 40-49 years old.\",\"cpm\":\"1.1\",\"path\":\"Bluekai:Aeropostale:Las Vegas (All Airports):QX50:QX-Series:Genesis:NSX:40-49\",\"map\":[\"34063\",\"2303\",\"7487\",\"2421\",\"372152\",\"49654\",\"503554\"],\"catsel\":\"BK_34063\"}",
+            "{\"id\":\"34064\",\"provider_prefix\":\"BK_\",\"category_id\":\"34064\",\"parent_id\":\"7\",\"isselectable\":\"1\",\"category_name\":\"50-64\",\"category_description\":\"This category contains people who are 50-59 years old.\",\"cpm\":\"1.1\",\"path\":\"Bluekai:Aeropostale:Las Vegas (All Airports):QX50:QX-Series:Genesis:NSX:50-64\",\"map\":[\"34064\",\"2303\",\"7487\",\"2421\",\"372152\",\"49654\",\"503554\"],\"catsel\":\"BK_34064\"}",
+            "{\"id\":\"1021\",\"provider_prefix\":\"LR_\",\"category_id\":\"1021\",\"parent_id\":\"10000101\",\"isselectable\":\"1\",\"category_name\":\"ACXM Lifestyle > Personicx > Classic Clusters > 18 - Climbing the Ladder\",\"category_description\":\"18 - Climbing the Ladder\",\"cpm\":\"0.8\",\"path\":\"LiveRamp:ACXM Lifestyle > Personicx > Classic Clusters > 18 - Climbing the Ladder\",\"map\":[\"1021\"],\"catsel\":\"LR_1021\"}",
+            "{\"id\":\"1141\",\"provider_prefix\":\"LR_\",\"category_id\":\"1141\",\"parent_id\":\"10000103\",\"isselectable\":\"1\",\"category_name\":\"ACXM Lifestyle > Personicx > Digital Clusters > 18 - eCom Influenced\",\"category_description\":\"18 - eCom Influenced\",\"cpm\":\"0.8\",\"path\":\"LiveRamp:ACXM Lifestyle > Personicx > Digital Clusters > 18 - eCom Influenced\",\"map\":[\"1141\"],\"catsel\":\"LR_1141\"}",
+            "{\"id\":\"1823\",\"provider_prefix\":\"LR_\",\"category_id\":\"1823\",\"parent_id\":\"10000155\",\"isselectable\":\"1\",\"category_name\":\"ACXM Demographic > Age > Five-Year Range > 18-24\",\"category_description\":\"18-24\",\"cpm\":\"1.21\",\"path\":\"LiveRamp:ACXM Demographic > Age > Five-Year Range > 18-24\",\"map\":[\"1823\"],\"catsel\":\"LR_1823\"}",
+            "{\"id\":\"1836\",\"provider_prefix\":\"LR_\",\"category_id\":\"1836\",\"parent_id\":\"10000158\",\"isselectable\":\"1\",\"category_name\":\"ACXM Demographic > Age > Two-Year Range > 18-19\",\"category_description\":\"18-19\",\"cpm\":\"1.21\",\"path\":\"LiveRamp:ACXM Demographic > Age > Two-Year Range > 18-19\",\"map\":[\"1836\"],\"catsel\":\"LR_1836\"}",
+            "{\"id\":\"4131\",\"provider_prefix\":\"LR_\",\"category_id\":\"4131\",\"parent_id\":\"10000177\",\"isselectable\":\"1\",\"category_name\":\"ACXM Demographic > Age > 1st Individual>18-24\",\"category_description\":\"1st Individual>18-24\",\"cpm\":\"0.75\",\"path\":\"LiveRamp:ACXM Demographic > Age > 1st Individual>18-24\",\"map\":[\"4131\"],\"catsel\":\"LR_4131\"}",
+            "{\"id\":\"10650\",\"provider_prefix\":\"LR_\",\"category_id\":\"10650\",\"parent_id\":\"10000191\",\"isselectable\":\"1\",\"category_name\":\"ACXM Financial > Underbanked > 18\",\"category_description\":\"18\",\"cpm\":\"1\",\"path\":\"LiveRamp:ACXM Financial > Underbanked > 18\",\"map\":[\"10650\"],\"catsel\":\"LR_10650\"}"
+        ]
+    ],
+    "packagename": "LDA_APP_LIST",
+    "enabled_on_desktop": "0",
+    "enabled_on_mobile": "1",
+    "enabled_on_tablet": "1",
+    "desktopSelected": "false",
+    "MobSelected": "true",
+    "tabSelected": "true",
+    "DeviceTypeError": "false",
+    "states":["nil"],
+    "cities": ["nil"],
+    "designid":["nil"],
+    "site": ["nil"]
+
+   
+}

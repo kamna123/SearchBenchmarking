@@ -1,0 +1,63 @@
+{
+    
+    "adsize": [
+        "nil"
+    ],
+    "adformats": [
+       "nil"
+    ],
+    "gps": "nil",
+    "ifa": "true",
+    "integration": [
+       "nil"
+    ],
+    "clickable": "nil",
+    "instream": "nil",
+    "incentivized": "nil",
+    "autoplay": "nil",
+    "sound": "nil",
+    "skippable": "nil",
+    "viewability": "nil",
+    "moat": "nil",
+    "adsizedesk": [
+       "nil"
+    ],
+    "adunitdesk": [
+       "nil"
+    ],
+
+    "apporwebtargetting": "0",
+    "categories": ["nil"],
+    "categoriesinclude": "1",
+    "domainbundleinclude": "1",
+    "domainbundle": "audio.mp3.music.player\nbbc.mobile.news.ww\nbr.com.tapps.myboo\ncoloring.book.color\ncom.adar.cameracantik\ncom.adcash.sketch\ncom.ajnsnewmedia.kitchenstories\ncom.android.thewongandonly.QuickDraw\ncom.aol.mobile.aolapp\ncom.apalon.myclockfree\ncom.app.downloadmanager\ncom.arcsoft.perfect365\ncom.astarsoftware.euchre\ncom.astarsoftware.hearts\ncom.astarsoftware.spades\ncom.badoinkfree\ncom.bandagames.miner\ncom.cleanmaster.mguard\ncom.cleanmaster.security\ncom.cmcm.locker\ncom.cnbc.client\ncom.cnn.mobile.android.phone\ncom.dailymotion.dailymotion\ncom.detectunfollowers\ncom.dianxinos.dxbs\ncom.dianxinos.optimizer.duplay\ncom.drawapp.magicdoodle\ncom.droidbender.animania\ncom.droidworks.android.alexjones\ncom.duapps.coolermaster.cpucooler\ncom.ea.gp.bej3\ncom.ea.scrabblefree_na\ncom.eliferun.music\ncom.espn.score_center\ncom.firecrackersw.wordbreaker\ncom.fivemobile.wattpad\ncom.fly.launcher\ncom.frostwire.android\ncom.gameresort.stupidzombies\ncom.gameresort.sz2google\ncom.hapogames.BubbleParadise\ncom.huffingtonpost.android\ncom.icenta.sudoku.ui\ncom.ijinshan.kbatterydoctor_en\ncom.inboxdollars.InboxDollars\ncom.intellectualflame.ledflashlight.washer\ncom.ivuu\ncom.jaredco.regrann\ncom.jb.gosms\ncom.jqrapps.fastandslowmotionvideotool\ncom.jqrapps.slowmotionvideo\ncom.jqrapps.slowmotionvideo20\ncom.kiloo.subwaysurf\ncom.kokteyl.goal\ncom.magmamobile.game.SpiderSolitaire\ncom.mega.cast\ncom.mentormate.android.inboxdollars\ncom.miniclip.plagueinc\ncom.mobilityware.solitaire\ncom.morrison.applocklite\ncom.movieclips.views\ncom.multimedia.player\ncom.myfitnesspal.android\ncom.myYearbook.MyYearbook\ncom.notabasement.mangarock.android.titan\ncom.novagecko.memedroid\ncom.onelouder.baconreader\ncom.oovoo\ncom.pinger.ppa\ncom.pinger.textfree\ncom.preciselabs.teen_truth_and_dare_free\ncom.protectedio.app\ncom.rhythmnewmedia.tmz\ncom.scores365\ncom.skout.android\ncom.skout.SKOUT\ncom.skyfire.browser.toolbar\ncom.slidejoy\ncom.taggedapp\ncom.tapinator.crime.town.police.cardriver\ncom.thechive.Chive\ncom.tmsoft.whitenoise.lite\ncom.toi.reader.activities\ncom.usatoday.android.news\ncom.velldrin.smartvoiceassistant\ncom.weather.Weather\ncom.wildtangent.solitaire\ncom.wildtangent.solitaire3\ncom.zeptolab.ctr.ads\ncom.zynga.words\nde.stefanpledl.localcast\ndeezer.android.app\ndevian.tubemate.home\ndroom.sleepIfUCan\nes.eduxdream.ghost.detector\ngbis.gbandroid\nipnossoft.rma.free\nit.rortos.f18carrierlandingii\nmedia.audioplayer.musicplayer\nmedia.mp3player.musicplayer\nmedia.music.musicplayer\nmedia.music.musicplayer.mp3player\nmidasapps.fingertwister\nmy.googlemusic.play\nnet.zedge.android\ntv.bitx.media\ntv.bitx.media.cast\nwp.wattpad",
+    "adultcontent": "1",
+    "deviceOSinclude": "1",
+    "deviceOS": ["nil"],
+    "deviceID": ["nil"],
+    "deviceCategory": "-1",
+    "deviceMake": ["nil"],
+    "devicemodel": "nil",
+    "deviceosversion": "nil",
+    "carrierwhitelist": ["nil"],
+    "ispwhitelist": ["nil"],
+    "wifitargeting": "-1",
+    "country": "USA",
+    "postalcode": "nil",
+    "dma": "nil",
+    "dp_expression": "nil",
+    "packagename": "4info_US_InApp_HighVCR",
+    "enabled_on_desktop": "0",
+    "enabled_on_mobile": "1",
+    "enabled_on_tablet": "1",
+    "desktopSelected": "false",
+    "MobSelected": "true",
+    "tabSelected": "true",
+    "DeviceTypeError": "false",
+    "states":["nil"],
+    "cities": ["nil"],
+    "designid":["nil"],
+    "site": ["nil"]
+
+   
+}

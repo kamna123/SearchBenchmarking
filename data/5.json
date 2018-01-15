@@ -1,0 +1,59 @@
+{
+       "adsize": [
+        "nil"
+    ],
+    "adformats": [
+       "nil"
+    ],
+    "gps": "nil",
+    "ifa": "nil",
+    "integration": [
+       "nil"
+    ],
+    "clickable": "nil",
+    "instream": "nil",
+    "incentivized": "nil",
+    "autoplay": "nil",
+    "sound": "nil",
+    "skippable": "nil",
+    "viewability": "nil",
+    "moat": "nil",
+    "adsizedesk": [
+       "nil"
+    ],
+    "adunitdesk": [
+       "nil"
+    ],
+    "apporwebtargetting": "-1",
+    "categories": ["nil"],
+    "categoriesinclude": "1",
+    "domainbundleinclude": "1",
+    "domainbundle": "247modernmom.com\nanxioustoddlers.com\nask.com\naskbaby.com\nazfamily.com\nbabble.com\nbabycenter.com\nbabygaga.com\nbettermoms.com\ncafemom.com\ncheckpregnancy.com\ncountdowntopregnancy.com\ncrazyadventuresinparenting.com\ncreativewithkids.com\nehow.com\neverydayfamily.com\nfamilycorner.com\nfamilyfreshmeals.com\nfirsttimepregnancy.org\nfitpregnancy.com\nforeverymom.com\nhellokids.com\nhomewiththekids.com\nhotmomsclub.com\nicanteachmychild.com\nimalazymom.com\njollymom.com\njustmommies.com\nkidfriendlythingstodo.com\nkidsactivitiesblog.com\nlittlefamilyadventure.com\nmamasmiles.com\nmodernalternativepregnancy.com\nmoderndaymoms.com\nmodernmom.com\nmodernmomlife.com\nmodernmommymadness.com\nmodernparentsmessykids.com\nmom365.com\nmomadvice.com\nmommysavers.com\nmommyshorts.com\nmoneysavingmom.com\nmotherhoodandmerlot.com\nmotherhoodmadeclassy.com\nmotherhoodonadime.com\nmotherhoodunadorned.com\nmothering.com\nmylifeandkids.com\nmypregnancybaby.com\nparenting.com\nparentingcollective.com\npbs.org\npregnancy-info.net\nraisingourkids.com\nscarymommy.com\nscatteredthoughtsofacraftymom.com\nsingleparentmeet.com\nsingleparents.about.com\nskinnymom.com\nsmartparenting.com.ph\nsmittenkitchen.com\nstockpilingmoms.com\nsuperhealthykids.com\nthebettermom.com\ntheparentspot.com\nthesimpleparent.com\nthesoccermomblog.com\ntoddlerapproved.com\nwholeparent.com\nworkingmother.com\nyourkidstable.com\nyourmodernfamily.com\nyourparentinginfo.com",
+    "adultcontent": "1",
+    "deviceOSinclude": "1",
+    "deviceOS": ["nil"],
+    "deviceID": ["nil"],
+    "deviceCategory": "-1",
+    "deviceMake": ["nil"],
+    "devicemodel": ["nil"],
+    "deviceosversion": ["nil"],
+    "carrierwhitelist": ["nil"],
+    "ispwhitelist": ["nil"],
+    "wifitargeting": "-1",
+    "country": "USA",
+    "postalcode": "nil",
+    "dma": ["nil"],
+    "dp_expression": ["nil"],
+    "packagename": "AKQA_Clorox_Parenting_US_MW_DBM",
+    "enabled_on_desktop": "0",
+    "enabled_on_mobile": "1",
+    "enabled_on_tablet": "1",
+    "desktopSelected": "false",
+    "MobSelected": "true",
+    "tabSelected": "true",
+    "DeviceTypeError": "false",
+    "states":["nil"],
+    "cities": ["nil"],
+    "designid":["nil"],
+    "site": ["nil"]
+}

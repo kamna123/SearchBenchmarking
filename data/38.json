@@ -1,0 +1,63 @@
+{
+    
+    "adsize": [
+        "nil"
+    ],
+    "adformats": [
+       "nil"
+    ],
+    "gps": "nil",
+    "ifa": "nil",
+    "integration": [
+       "nil"
+    ],
+    "clickable": "nil",
+    "instream": "nil",
+    "incentivized": "nil",
+    "autoplay": "nil",
+    "sound": "nil",
+    "skippable": "nil",
+    "viewability": "nil",
+    "moat": "nil",
+    "adsizedesk": [
+       "nil"
+    ],
+    "adunitdesk": [
+       "nil"
+    ],
+
+    "apporwebtargetting": "1",
+    "categories": ["nil"],
+    "categoriesinclude": "1",
+    "domainbundleinclude": "1",
+    "domainbundle": "spotify.com\nslacker.com\npandora.com\nperezhilton.com\ntmz.com\nusweekly.com\ntwitch.tv\ncrackle.com\namc.com\ndailymotion.com\ndailymail.co.uk\nhuffpost.com\noprah.com\nbravotv.com\nfood.com\npopsugar.com\nbet.com\ncmt.com\ndelish.com\nthekitchn.com\nazlyrics.com\nfandango.com\nuproxx.com\ncelebuzz.com\nsimplerecipes.com\ncastbox.fm\nsheknows.com\ncraveonline.com\nbillboard.com\nrefinery29.com\ncafemom.com\nscarymommy.com\npeople.com\ncosmopolitan.com\ncracked.com\nweather.com\naccuweather.com\nrollingstone.com\nactivision.com\nblizzard.com\ngoodhousekeeping.com\ncafepress.com\nfoodnetwork.com\ntasteofhome.com\nharpersbazaar.com\nmovieweb.com\nindiewire.com\nshopathome.com\nallrecipes.com\ncountryliving.com\nusmagazine.com\nlaweekly.com\nparents.com\ntvguide.com\nauthoritynutrition.com\ngo.com\nfood52.com\nmarthastewart.com\nthedailymeal.com\new.com\nvice.com\nnationalgeographic.com\nwwe.com\nrottentomatoes.com\nehow.com\nhgtv.com\nhistory.com\ntoofab.com\nmapquest.com\nrealsimple.com\nign.com\npinchofyum.com\nmoviefone.com\nworldlifestyle.com\nnature.com\nvibe.com\nmashable.com\nwunderground.com\nadweek.com\nhomeremedyshop.com\nboredpanda.com\ntvland.com\nhollywood.com\nhollywoodreporter.com\ncookingclassy.com\nnewyorker.com\ndiply.com\netonline.com\neonline.com\nscreenrant.com\ntravelhackz.com\nreddit.com\nyachtingmagazine.com\ntodaysbuzz.com\nelle.com\nshape.com\nmmajunkie.com\nfinecooking.com\nfreshome.com\nellentube.com\nokmagazine.com\nwomensforum.com",
+    "adultcontent": "1",
+    "deviceOSinclude": "1",
+    "deviceOS": ["nil"],
+    "deviceID": ["nil"],
+    "deviceCategory": "-1",
+    "deviceMake": ["nil"],
+    "devicemodel": "nil",
+    "deviceosversion": "nil",
+    "carrierwhitelist": ["nil"],
+    "ispwhitelist": ["nil"],
+    "wifitargeting": "-1",
+    "country": "USA",
+    "postalcode": "nil",
+    "dma": "nil",
+    "dp_expression": "nil",
+    "packagename": "DBM_US_MW_Extra",
+    "enabled_on_desktop": "0",
+    "enabled_on_mobile": "1",
+    "enabled_on_tablet": "1",
+    "desktopSelected": "false",
+    "MobSelected": "true",
+    "tabSelected": "true",
+    "DeviceTypeError": "false",
+    "states":["nil"],
+    "cities": ["nil"],
+    "designid":["nil"],
+    "site": ["nil"]
+
+   
+}

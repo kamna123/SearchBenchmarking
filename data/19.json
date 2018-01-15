@@ -1,0 +1,62 @@
+{
+     "adsize": [
+        "nil"
+    ],
+    "adformats": [
+       "nil"
+    ],
+    "gps": "nil",
+    "ifa": "nil",
+    "integration": [
+       "nil"
+    ],
+    "clickable": "nil",
+    "instream": "nil",
+    "incentivized": "nil",
+    "autoplay": "nil",
+    "sound": "nil",
+    "skippable": "nil",
+    "viewability": "nil",
+    "moat": "nil",
+    "adsizedesk": [
+       "nil"
+    ],
+    "adunitdesk": [
+       "nil"
+    ],
+    "apporwebtargetting": "1",
+    "categories": ["nil"],
+    "categoriesinclude": "1",
+    "domainbundleinclude": "1",
+    "domainbundle": "ajc.com\nal.com\nalamogordonews.com\nalbanyherald.com\nalbertleatribune.com\nalligator.org\nanandtech.com\nandroidauthority.com\nandroidcentral.com\nannistonstar.com\natt.com\naudiogon.com\naudioholics.com\naudioreview.com\nazcentral.com\nbaltimoresun.com\nbandwidthplace.com\nbbc.com\nbeaumontenterprise.com\nbellinghamherald.com\nbgdailynews.com\nbiography.com\nbismarcktribune.com\nbizjournals.com\nblackberry.com\nbostonherald.com\nbusinessnewsdaily.com\ncavalierdaily.com\ncbslocal.com\ncbsnews.com\ncentredaily.com\nchicagotribune.com\nchron.com\ncio.com\ncitizensvoice.com\ncitypages.com\ncnn.com\ncnsnews.com\ncolumbiatribune.com\ncomputerworld.com\ncourant.com\ncsmonitor.com\ncumberlink.com\ndaily-journal.com\ndaily-times.com\ndailyadvance.com\ndailybreeze.com\ndailybulletin.com\ndailycamera.com\ndailymail.co.uk\ndailynebraskan.com\ndailynews.com\ndailypress.com\ndallasnews.com\ndallasobserver.com\ndecaturdaily.com\ndeccanherald.com\ndenverpost.com\ndesmoinesregister.com\ndothaneagle.com\ndslreports.com\neconomist.com\nelkintribune.com\nfark.com\nfoxnews.com\nfredericksburg.com\nfreep.com\nfresnobee.com\nfrontpagemag.com\nfrostwire.com\ngadsdentimes.com\ngainesvilletimes.com\ngastongazette.com\ngazette.com\ngeek.com\nglobes.co.il\ngottabemobile.com\ngoupstate.com\ngowelding.org\nguru3d.com\ngwinnettdailypost.com\nherald-dispatch.com\nheraldonline.com\nheraldpalladium.com\nheraldsun.com\nheraldtribune.com\nhickoryrecord.com\nhomedesignersoftware.com\nhoustonpress.com\nhuffingtonpost.com\nibtimes.com\nindependent.co.uk\nislandpacket.com\njacksonsun.com\njeffersonpost.com\njohnsoncitypress.com\njournalnow.com\njournalstar.com\njournaltimes.com\njsonline.com\nkansascity.com\nlacrossetribune.com\nlancasteronline.com\nlaptopmag.com\nlatimes.com\nlaurinburgexchange.com\nleadertelegram.com\nledger-enquirer.com\nlehighvalleylive.com\nlenovo.com\nlivescience.com\nljworld.com\nloganbanner.com\nlucianne.com\nmacon.com\nmacworld.co.uk\nmcall.com\nmercedsunstar.com\nmercurynews.com\nmessenger-inquirer.com\nmetafilter.com\nmichigansthumb.com\nmid-day.com\nmirror.co.uk\nmorganton.com\nmorrissuntribune.com\nmtairynews.com\nmydailyregister.com\nmysanantonio.com\nnatchezdemocrat.com\nnationalpost.com\nnbcnews.com\nndsmcobserver.com\nnews.com.au\nnews12.com\nnewsday.com\nnewser.com\nnewsmax.com\nnewsnow.co.uk\nnewsobserver.com\nnewstimes.com\nnewszoom.com\nnj.com\nnorthernstar.com.au\nnorthjersey.com\nnvdaily.com\nnvidia.com\nnwitimes.com\nnydailynews.com\nnypost.com\nnytimes.com\nobserver.com\nomaha.com\nomgubuntu.co.uk\nonlineathens.com\nonlinenewspapers.com\norlandosentinel.com\npalmbeachpost.com\npantagraph.com\npcadvisor.co.uk\npcworld.com\nphandroid.com\nphilly.com\nphoenixnewtimes.com\npjstar.com\npocketnow.com\npopularmechanics.com\npostandcourier.com\npressofatlanticcity.com\nprnewswire.com\nqctimes.com\nrapidcityjournal.com\nrawstory.com\nreadingeagle.com\nrecord-eagle.com\nrecordpub.com\nreuters.com\nrobesonian.com\nrollcall.com\nsacbee.com\nsandesh.com\nsanluisobispo.com\nsantacruzsentinel.com\nsantafenewmexican.com\nseattlepi.com\nsedaliademocrat.com\nsfgate.com\nsfweekly.com\nshinystat.com\nsj-r.com\nsky.com\nslashdot.org\nsltrib.com\nsourceforge.net\nsouthcoasttoday.com\nstamfordadvocate.com\nstandard.net\nstaradvertiser.com\nstartribune.com\nstatcounter.com\nstatesville.com\nstltoday.com\nsubmitexpress.com\nsun-sentinel.com\nsunherald.com\nsuntimes.com\nsyracuse.com\ntabletpcreview.com\ntampabay.com\ntech-recipes.com\ntechcrunch.com\ntechdirt.com\ntelegram.com\nthe-messenger.com\ntheadvocate.com\ntheblaze.com\nthedp.com\ntheguardian.com\nthehour.com\ntheintelligencer.com\ntheitem.com\ntheledger.com\nthenewstribune.com\ntheolympian.com\nthestate.com\nthetandd.com\nthetelegraph.com\nthetimes-tribune.com\nthetimesnews.com\ntimesdaily.com\ntimesleader.com\ntimesnews.net\ntimesonline.com\ntimesunion.com\ntomshardware.com\ntoshiba.com\ntri-cityherald.com\ntrib.com\ntriblive.com\ntutsplus.com\ntwincities.com\nusatoday.com\nverizon.com\nvvdailypress.com\nwacotrib.com\nwashingtonexaminer.com\nwashingtonmonthly.com\nwashingtonpost.com\nwashingtontimes.com\nwattpad.com\nwcfcourier.com\nwellsvilledaily.com\nwesthawaiitoday.com\nwestword.com\nwickedlocal.com\nwilliamsondailynews.com\nwilsontimes.com\nwinonadailynews.com\nwired.com\nwrite-out-loud.com\nxda-developers.com\nynetnews.com\nyourdailyjournal.com\nzdnet.com",
+    "adultcontent": "1",
+    "deviceOSinclude": "1",
+    "deviceOS": ["nil"],
+    "deviceID": ["nil"],
+    "deviceCategory": "-1",
+    "deviceMake": ["nil"],
+    "devicemodel": "nil",
+    "deviceosversion": "nil",
+    "carrierwhitelist": ["nil"],
+    "ispwhitelist": ["nil"],
+    "wifitargeting": "-1",
+    "country": "USA",
+    "postalcode": "nil",
+    "dma": "nil",
+    "dp_expression": "nil",
+    "packagename": "Intel_IT Influencers_Package",
+    "enabled_on_desktop": "0",
+    "enabled_on_mobile": "1",
+    "enabled_on_tablet": "1",
+    "desktopSelected": "false",
+    "MobSelected": "true",
+    "tabSelected": "true",
+    "DeviceTypeError": "false",
+    
+
+      "states":["nil"],
+    "cities": ["nil"],
+     "designid":["nil"],
+    "site": ["nil"]
+
+}

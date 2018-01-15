@@ -1,0 +1,59 @@
+{
+    "adsize": [
+        "nil"
+    ],
+    "adformats": [
+       "nil"
+    ],
+    "gps": "nil",
+    "ifa": "nil",
+    "integration": [
+       "nil"
+    ],
+    "clickable": "nil",
+    "instream": "nil",
+    "incentivized": "nil",
+    "autoplay": "nil",
+    "sound": "nil",
+    "skippable": "nil",
+    "viewability": "nil",
+    "moat": "nil",
+    "adsizedesk": [
+       "nil"
+    ],
+    "adunitdesk": [
+       "nil"
+    ],
+    "apporwebtargetting": "-1",
+    "categories": ["nil"],
+    "categoriesinclude": "1",
+    "domainbundleinclude": "1",
+    "domainbundle": "ibtimes.com\nforbes.com\nmoney.cnn.com\nbusinessinsider.com\nbizjournals.com\nmanta.com\nseekingalpha.com\nbusiness.com\nadweek.com\nfastcompany.com\nbusinessnewsdaily.com\nmonster.com\nbusinessknowhow.com\nbusiness-standard.com\ncareerbuilder.com\npch.com\nglassdoor.com\ndailyfinance.com\nbloomberg.com\nswagbucks.com\npayscale.com\neconomist.com\nindeed.com\ncnbc.com\nwsj.com\nt-mobile.com\nmarketwatch.com\ntechtarget.com\n4dsply.com\ncenturylink.com\neventbrite.com\ngarmin.com\njobs.net\nlexisnexis.com\nsearchengineland.com\ntaboola.com\nthefinancebuff.com\nverizon.com",
+    "adultcontent": "1",
+    "deviceOSinclude": "1",
+    "deviceOS": ["nil"],
+    "deviceID": ["nil"],
+    "deviceCategory": "-1",
+    "deviceMake": ["nil"],
+    "devicemodel": "nil",
+    "deviceosversion": "nil",
+    "carrierwhitelist": ["nil"],
+    "ispwhitelist": ["nil"],
+    "wifitargeting": "-1",
+    "country": "USA",
+    "postalcode": "nil",
+    "dma": "nil",
+    "dp_expression": "nil",
+    "packagename": "Business List_Package",
+    "enabled_on_desktop": "0",
+    "enabled_on_mobile": "1",
+    "enabled_on_tablet": "1",
+    "desktopSelected": "false",
+    "MobSelected": "true",
+    "tabSelected": "true",
+    "DeviceTypeError": "false",
+       "states":["nil"],
+    "cities": ["nil"],
+     "designid":["nil"],
+    "site": ["nil"]
+}

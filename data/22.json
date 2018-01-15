@@ -1,0 +1,66 @@
+{
+    
+    "adsize": [
+        "nil"
+    ],
+    "adformats": [
+       "nil"
+    ],
+    "gps": "nil",
+    "ifa": "nil",
+    "integration": [
+        "Chocolate SSP",
+            "Vdopia Direct",
+            "Mediation Direct",
+            "Indirect"
+    ],
+    "clickable": "nil",
+    "instream": "nil",
+    "incentivized": "nil",
+    "autoplay": "nil",
+    "sound": "nil",
+    "skippable": "nil",
+    "viewability": "nil",
+    "moat": "nil",
+    "adsizedesk": [
+       "nil"
+    ],
+    "adunitdesk": [
+       "nil"
+    ],
+
+    "apporwebtargetting": "1",
+    "categories": ["nil"],
+    "categoriesinclude": "1",
+    "domainbundleinclude": "1",
+    "domainbundle": "sportzwiki.com\nkhabarindiatv.com\nmsn.com\nthestorypedia.com\nindiatvnews.com\ntvarticles.me\nlittlethings.com\nmid-day.com\nbhaskar.com\ncnn.com\nminglebox.com\n90min.in\nlikeafool.com\nindianexpress.com\nyodesi.net\nndtv.com\nbollywoodlife.com\nthehindu.com\nloksatta.com\nviewster.com\nindia.com\ntolivelugu.com\nhollywoodlife.com\ntamiltvshows.net\nfinancialexpress.com\nonline-tech-tips.com\nintoday.in\ndesifive.com\noneindia.com\ntarladalal.com\naskmefast.com\nnfl.com\nstylecraze.com\nibtimes.co.in\nmoneycontrol.com\nfood52.com\ntheguardian.com\nichowk.in\nandhrajyothy.com\nsandesh.com\nindiatimes.com\npudhari.com\nnativeplanet.com\nphotobucket.com\nfilmibeat.com\napne.tv\nusnews.com\nanandabazar.com\ninstructables.com\nrealclearpolitics.com\nabplive.in\nmanoramaonline.com\ngsmarena.com\nmirror.co.uk\ntwitch.tv\neastcoastdaily.com\nmakeupandbeauty.com\naajtak.in\nindependent.co.uk\nraftaar.in\ntheblaze.com\nbostonherald.com",
+    "adultcontent": "1",
+    "deviceOSinclude": "1",
+    "deviceOS": ["nil"],
+    "deviceID": ["nil"],
+    "deviceCategory": "-1",
+    "deviceMake": ["nil"],
+    "devicemodel": "nil",
+    "deviceosversion": "nil",
+    "carrierwhitelist": ["nil"],
+    "ispwhitelist": ["nil"],
+    "wifitargeting": "-1",
+    "country": "IND",
+    "postalcode": "nil",
+    "dma": "nil",
+    "dp_expression": "nil",
+    "packagename": "Accuen_HUL_IN",
+    "enabled_on_desktop": "0",
+    "enabled_on_mobile": "1",
+    "enabled_on_tablet": "1",
+    "desktopSelected": "false",
+    "MobSelected": "true",
+    "tabSelected": "true",
+    "DeviceTypeError": "false",
+    "states":["nil"],
+    "cities": ["nil"],
+    "designid":["nil"],
+    "site": ["nil"]
+
+   
+}

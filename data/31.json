@@ -1,0 +1,63 @@
+{
+    
+    "adsize": [
+        "nil"
+    ],
+    "adformats": [
+       "nil"
+    ],
+    "gps": "nil",
+    "ifa": "nil",
+    "integration": [
+       "nil"
+    ],
+    "clickable": "nil",
+    "instream": "nil",
+    "incentivized": "nil",
+    "autoplay": "nil",
+    "sound": "nil",
+    "skippable": "nil",
+    "viewability": "nil",
+    "moat": "nil",
+    "adsizedesk": [
+       "nil"
+    ],
+    "adunitdesk": [
+       "nil"
+    ],
+
+    "apporwebtargetting": "1",
+    "categories": ["nil"],
+    "categoriesinclude": "1",
+    "domainbundleinclude": "1",
+    "domainbundle": "411Mania.com\n49ErsWebZone.com\n9GAG.com\nAboveTopSecret.com\nActive.com\nAfterEllen.com\nAll-That-Is-Interesting.com\nAllAfrica.com\nAllkpop.com\nAllTheTests.com\nAmericanThinker.com\nAndroidFreeware.net\nAsianWiki.com\nAskMeFast.com\nAstrolis.com\nAtlantablackstar.com\nAxs.com\nBab.la\nBabyGaga.com\nBabyMed.com\nBikeForums.net\nBoldSky.com\nBrainFall.com\nBroadwayWorld.com\nBuddyTV.com\nCarAdvice.com.au\nCarComplaints.com\nCheezBurger.com\nCollective-Evolution.com\nComicBookResources.com\nConsequenceOfSound.net\nCosmo.ph\nCovers.com\nDailySnark.com\nDatPiff.com\nDisclose.tv\nDivyaBhaskar.co.in\nEbaumsWorld.com\nEconomicTimes.com\nEenadu.net\nEmuParadise.me\nFansshare.com\nFilmiBeat.com\nFitDay.com\nFootyRoom.com\nGoodMenProject.com\nGossipOnThis.com\nGuitaretab.com\nGulte.com\nHindustanTimes.com\nHockeyBuzz.com\nHollywoodLife.com\nIBTimes.com\nIndia-Forums.com\nIndia.com\nInspiredTaste.net\niPhoneHacks.com\nJustPushStart.com\nKnowYourMeme.com\nLaaloosh.com\nLaVozDaily.com\nLegendarySpeed.com\nLetsRun.com\nLifeWithDogs.tv\nListVerse.com\nLokSatta.com\nLyricsFreak.com\nLyricsMode.com\nMail.com\nMapsOfWorld.com\nMarunadanMalayali.com\nMatch.com\nMDJunction.com\nMereja.com\nMid-day.com\nMMAWeekly.com\nMobafire.com\nMomJunction.com\nMomsWhoThink.com\nMovieWeb.com\nMRCTV.org\nMyModernMet.com\nOdometer.com\nOola.com\nOurtime.com\nPBH2.com\nPEP.ph\nPESGaming.com\nPhandroid.com\nPinkVilla.com\nPlanetDestiny.com\nProBoards.com\nProWrestling.com\nPWMania.com\nRateMyJob.com\nRCTech.net\nRealClearPolitics.com\nRealGM.com\nRealityTVWorld.com\nRunt-Of-The-Web.com\nSaharaReporters.com\nScreenRant.com\nSearchQuotes.com\nSnopes.com\nSomeECards.com\nSongLyrics.com\nSongMeanings.com\nSpin.ph\nSporcle.com\nStangNet.com\nStyleCraze.com\nSulekha.com\nSummitPost.org\nTalkingPointsMemo.com\nTamilo.com\nTech-Recipes.com\nTechTimes.com\nTecMint.com\nTheChive.com\nTheDroidGuy.com\nTheGrio.com\nTheHullTruth.com\nTheLadBible.com\nTheOdysseyOnline.com\nTheRichest.com\nTheSimsResource.com\nTheSource.com\nTheSportster.com\nTheTalko.com\nTheThings.com\nThoughtCatalog.com\nTodayIFoundOut.com\nTopix.com\nTopTenz.net\nTubeTamil.com\nTupaki.com\nTVSeriesFinale.com\nTvTropes.org\nVariety.com\nVerticalScope.com\nVikatan.com\nVisualRecipes.com\nWalterFootBall.com\nWesteros.org\nWetPaint.com\nWikia.com\nWinEveryGame.com\nWomanista.com\nWordReference.com\nWorldJournal.com\nWorldstarHipHop.com\nWowhead.com\nWrestlingINC.com\nWrongPlanet.net",
+    "adultcontent": "1",
+    "deviceOSinclude": "1",
+    "deviceOS": ["nil"],
+    "deviceID": ["nil"],
+    "deviceCategory": "-1",
+    "deviceMake": ["nil"],
+    "devicemodel": "nil",
+    "deviceosversion": "nil",
+    "carrierwhitelist": ["nil"],
+    "ispwhitelist": ["nil"],
+    "wifitargeting": "-1",
+    "country": "USA",
+    "postalcode": "nil",
+    "dma": "nil",
+    "dp_expression": "nil",
+    "packagename": "4info_US_MW_LDA",
+    "enabled_on_desktop": "0",
+    "enabled_on_mobile": "1",
+    "enabled_on_tablet": "1",
+    "desktopSelected": "false",
+    "MobSelected": "true",
+    "tabSelected": "true",
+    "DeviceTypeError": "false",
+    "states":["nil"],
+    "cities": ["nil"],
+    "designid":["nil"],
+    "site": ["nil"]
+
+   
+}

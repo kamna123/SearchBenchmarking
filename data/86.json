@@ -1,0 +1,62 @@
+{
+    "adsize": [
+        "nil"
+    ],
+    "adformats": [
+       "nil"
+    ],
+    "gps": "nil",
+    "ifa": "nil",
+    "integration": [
+       "nil"
+    ],
+    "clickable": "nil",
+    "instream": "true",
+    "incentivized": "nil",
+    "autoplay": "nil",
+    "sound": "nil",
+    "skippable": "false",
+    "viewability": "nil",
+    "moat": "nil",
+    "adsizedesk": [
+       "nil"
+    ],
+    "adunitdesk": [
+       "nil"
+    ],
+
+                    "apporwebtargetting": "1",
+                    "categories": ["nil"],
+                    "categoriesinclude": "1",
+                    "domainbundleinclude": "1",
+                    "domainbundle": "joal.com\nabc.com\ngal.com",
+                    "adultcontent": "1",
+                    "deviceOSinclude": "1",
+                    "deviceOS": ["nil"],
+                    "deviceID": ["nil"],
+                    "deviceCategory": "-1",
+                    "deviceMake": ["nil"],
+                    "devicemodel": "nil",
+                    "deviceosversion": "nil",
+                    "carrierwhitelist": ["nil"],
+                    "ispwhitelist": ["nil"],
+                    "wifitargeting": "-1",
+                    "country": "-1",
+                    "postalcode": "nil",
+                    "dma": "nil",
+                    "dp_expression": "nil",
+                    "packagename": "Videology_US_PreRoll_NonSkip_MW_test",
+                    "enabled_on_desktop": "0",
+                    "enabled_on_mobile": "1",
+                    "enabled_on_tablet": "1",
+                    "desktopSelected": "false",
+                    "MobSelected": "true",
+                    "tabSelected": "true",
+                    "DeviceTypeError": "false",
+                    "states":["nil"],
+    "cities": ["nil"],
+    "designid":["nil"],
+    "site": ["nil"]
+
+   
+                }

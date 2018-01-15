@@ -1,0 +1,63 @@
+{
+    
+    "adsize": [
+        "nil"
+    ],
+    "adformats": [
+       "nil"
+    ],
+    "gps": "nil",
+    "ifa": "nil",
+    "integration": [
+       "nil"
+    ],
+    "clickable": "nil",
+    "instream": "nil",
+    "incentivized": "nil",
+    "autoplay": "nil",
+    "sound": "nil",
+    "skippable": "nil",
+    "viewability": "nil",
+    "moat": "nil",
+    "adsizedesk": [
+       "nil"
+    ],
+    "adunitdesk": [
+       "nil"
+    ],
+
+    "apporwebtargetting": "1",
+    "categories": ["nil"],
+    "categoriesinclude": "1",
+    "domainbundleinclude": "1",
+    "domainbundle": "freshome.com\nfinecooking.com\ncoupons.com\nfood.com\nfoodnetwork.com\nfood52.com\nmarthastewart.com\nbravotv.com\ndelish.com\nthekitchn.com\nrefinery29.com\ncmt.com\ncountryliving.com\npeople.com\nusweekly.com\ninstyle.com\noprah.com\ngo.com\nnick.com\nhuffingtonpost.com\nshape.com\ncosmopolitan.com\nshopathome.com\nallrecipes.com\nfandango.com\nmovieweb.com\nmoviefone.com\nsimplyrecipes.com\nweather.com\naccuweather.com\ncafemom.com\nusmagazine.com\nwunderground.com\ntimeout.com\nlaweekly.com\nhomeremedyshop.com\ntvland.com\ntvguide.com\ncookingclassy.com\ndiply.com\netonline.com\nellentube.com\ntasteofhome.com\nthedailymeal.com\nscarymommy.com\nsouthernplate.com\npinchofyum.com\nokmagazine.com\nrealsimple.com\nhometalk.com\nehow.com\nintouchweekly.com\nwomensforum.com\ntopsecretrecipes.com\nepicurious.com\nfinegardening.com\ngoodhousekeeping.com\nmrfood.com\ncouponmom.com\nmyrecipes.com\nsheknows.com\npandora.com\nauthoritynutrition.com\ndoityourself.com\nstylecraze.com\nmovies.com\nimdb.com",
+    "adultcontent": "1",
+    "deviceOSinclude": "1",
+    "deviceOS": ["nil"],
+    "deviceID": ["nil"],
+    "deviceCategory": "-1",
+    "deviceMake": ["nil"],
+    "devicemodel": "nil",
+    "deviceosversion": "nil",
+    "carrierwhitelist": ["nil"],
+    "ispwhitelist": ["nil"],
+    "wifitargeting": "-1",
+    "country": "USA",
+    "postalcode": "nil",
+    "dma": "nil",
+    "dp_expression": "nil",
+    "packagename": "DBM_US_MW_Starburst_Seasonal",
+    "enabled_on_desktop": "0",
+    "enabled_on_mobile": "1",
+    "enabled_on_tablet": "1",
+    "desktopSelected": "false",
+    "MobSelected": "true",
+    "tabSelected": "true",
+    "DeviceTypeError": "false",
+    "states":["nil"],
+    "cities": ["nil"],
+    "designid":["nil"],
+    "site": ["nil"]
+
+   
+}

@@ -1,0 +1,63 @@
+{
+    
+    "adsize": [
+        "nil"
+    ],
+    "adformats": [
+       "nil"
+    ],
+    "gps": "nil",
+    "ifa": "nil",
+    "integration": [
+       "nil"
+    ],
+    "clickable": "nil",
+    "instream": "nil",
+    "incentivized": "nil",
+    "autoplay": "nil",
+    "sound": "nil",
+    "skippable": "nil",
+    "viewability": "nil",
+    "moat": "nil",
+    "adsizedesk": [
+       "nil"
+    ],
+    "adunitdesk": [
+       "nil"
+    ],
+
+    "apporwebtargetting": "1",
+    "categories": ["nil"],
+    "categoriesinclude": "1",
+    "domainbundleinclude": "1",
+    "domainbundle": "perezhilton.com\ntmz.com\ncosmopolitan.com\ncrackle.com\ninstyle.com\nusweekly.com\npeople.com\nthekitchn.com\ndailymotion.com\nyahoo.com\nstylecaster.com\namc.com\nworldlifestyle.com\npopsugar.com\nsheknows.com\nstylecraze.com\nshape.com\nelitedaily.com\nthefashionspot.com\nhollywood.com\nhollywoodreporter.com\netonline.com\nseventeen.com\noprah.com\ntoofab.com\nbillboard.com\nheavy.com\ncomplex.com\npagesix.com\nbravotv.com\nvibe.com\nfashionbeans.com\nhistory.com\nradaronline.com\ndailymail.co.uk\nhgtv.com\ndoityourself.com\nhowstuffworks.com\nehow.com\nhowtogeek.com\nshopathome.com\nmarthastewart.com\nsimplerecipes.com\ngoodhousekeeping.com\nusmagazine.com\nfandango.com\nhuffpost.com\nmashable.com\ntwitch.tv\nbossip.com\nuproxx.com\nimdb.com\nwwe.com\nea.com\neonline.com\new.com\ncracked.com\nreddit.com\nufc.com\npandora.com\nslacker.com\nmovies.com\nblizzard.com\nactivision.com\nrollingstone.com\nbiography.com\nthewrap.com\ndiply.com\nthechive.com\ntvguide.com\ndelish.com\nesquire.com\nhollywoodlife.com\nsoundcloud.com\nlaweekly.com\nbollywoodlife.com\ncraveonline.com\nrefinery29.com\ncelebuzz.com\nranker.com\nindiewire.com\nazlyrics.com\nign.com\ngamespot.com\nwowhead.com\nhometalk.com\nellentube.com\nokmagazine.com",
+    "adultcontent": "1",
+    "deviceOSinclude": "1",
+    "deviceOS": ["nil"],
+    "deviceID": ["nil"],
+    "deviceCategory": "-1",
+    "deviceMake": ["nil"],
+    "devicemodel": "nil",
+    "deviceosversion": "nil",
+    "carrierwhitelist": ["nil"],
+    "ispwhitelist": ["nil"],
+    "wifitargeting": "-1",
+    "country": "USA",
+    "postalcode": "nil",
+    "dma": "nil",
+    "dp_expression": "nil",
+    "packagename": "DBM_US_MW_Starbust_AO",
+    "enabled_on_desktop": "0",
+    "enabled_on_mobile": "1",
+    "enabled_on_tablet": "1",
+    "desktopSelected": "false",
+    "MobSelected": "true",
+    "tabSelected": "true",
+    "DeviceTypeError": "false",
+    "states":["nil"],
+    "cities": ["nil"],
+    "designid":["nil"],
+    "site": ["nil"]
+
+   
+}

@@ -1,0 +1,63 @@
+{
+    
+    "adsize": [
+        "nil"
+    ],
+    "adformats": [
+       "nil"
+    ],
+    "gps": "nil",
+    "ifa": "nil",
+    "integration": [
+       "nil"
+    ],
+    "clickable": "nil",
+    "instream": "nil",
+    "incentivized": "nil",
+    "autoplay": "nil",
+    "sound": "nil",
+    "skippable": "nil",
+    "viewability": "nil",
+    "moat": "nil",
+    "adsizedesk": [
+       "nil"
+    ],
+    "adunitdesk": [
+       "nil"
+    ],
+
+    "apporwebtargetting": "1",
+    "categories": ["nil"],
+    "categoriesinclude": "1",
+    "domainbundleinclude": "1",
+    "domainbundle": "sbnation.com\nbleacherreport.com\ncbssports.com\nespn.com\nespnfc.com\nespncricinfo.com\nnbcsports.com\nfoxsports.com\nsportingnews.com\nmlb.com\nnba.com\nnhl.com\nnfl.com\nmmajunkie.com\nufc.com\ncrackle.com\namc.com\ntwitch.tv\nbravotv.com\nperezhilton.com\ntmz.com\nseventeen.com\nhollywood.com\nhollywoodreporter.com\ndailymail.co.uk\nfood.com\nfoodnetwork.com\ndelish.com\nthekitchn.com\nrefinery29.com\ncomplex.com\npandora.com\nspotify.com\nsoundcloud.com\nbet.com\ncmt.com\nslacker.com\ncracked.com\ncraveonline.com\npeople.com\nusweekly.com\nlaweekly.com\ninstyle.com\netonline.com\nradaronline.com\nfashionbeans.com\nharpersbazaar.com\nhuffpost.com\nimdb.com\neonline.com\nvice.com\nreddit.com\ncastbox.com\n247sports.com\nmlssoccer.com\nmovieweb.com\ngoal.com\nfandango.com\nbillboard.com\ntoofab.com\nactive.com\nscout.com\ncosmopolitan.com\nthefashionspot.com\ntvguide.com\nauthoritynutrition.com\nfood52.com\ncountryliving.com\nthedailymeal.com\new.com\nnationalgeographic.com\nwwe.com\nrottentomatoes.com\nrealsimple.com\nmapquest.com\nshopathome.com\nthechive.com\nign.com\npinchofyum.com\nmoviefone.com\ngamespot.com\nworldlifestyle.com\nweather.com\naccuweather.com\nmajorleaguegaming.com\nnature.com\nusmagazine.com\nvibe.com\nmashable.com\nwunderground.com\nadweek.com\nboredpanda.com\ntvland.com\ngo.com\ncookingclassy.com\nnewyorker.com\ndiply.com\ndailymotion.com\nscreenrant.com\ntravelackz.com\nindiewire.com\nyachtingmagazine.com\nhistory.com\ntodaysbuzz.com\nelle.com\ncollegehumor.com\nshape.com\nnesn.com\nfreshome.com\nfinecooking.com\nokmagazine.com",
+    "adultcontent": "1",
+    "deviceOSinclude": "1",
+    "deviceOS": ["nil"],
+    "deviceID": ["nil"],
+    "deviceCategory": "-1",
+    "deviceMake": ["nil"],
+    "devicemodel": "nil",
+    "deviceosversion": "nil",
+    "carrierwhitelist": ["nil"],
+    "ispwhitelist": ["nil"],
+    "wifitargeting": "-1",
+    "country": "USA",
+    "postalcode": "nil",
+    "dma": "nil",
+    "dp_expression": "nil",
+    "packagename": "DMB_US_MW_5Gum",
+    "enabled_on_desktop": "0",
+    "enabled_on_mobile": "1",
+    "enabled_on_tablet": "1",
+    "desktopSelected": "false",
+    "MobSelected": "true",
+    "tabSelected": "true",
+    "DeviceTypeError": "false",
+    "states":["nil"],
+    "cities": ["nil"],
+    "designid":["nil"],
+    "site": ["nil"]
+
+   
+}

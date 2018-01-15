@@ -1,0 +1,59 @@
+{
+     "adsize": [
+        "320x480"
+    ],
+    "adformats": [
+       "nil"
+    ],
+    "gps": "nil",
+    "ifa": "nil",
+    "integration": [
+       "nil"
+    ],
+    "clickable": "nil",
+    "instream": "nil",
+    "incentivized": "nil",
+    "autoplay": "nil",
+    "sound": "nil",
+    "skippable": "false",
+    "viewability": "nil",
+    "moat": "nil",
+    "adsizedesk": [
+       "nil"
+    ],
+    "adunitdesk": [
+       "nil"
+    ],
+    "apporwebtargetting": "0",
+    "categories": ["nil"],
+    "categoriesinclude": "1",
+    "domainbundleinclude": "1",
+    "domainbundle": "com.pinger.textfree\ncom.pinger.textfree.call\ncom.pinger.textfreeWithVoice\ncom.pinger.pingerphone2\ncom.pinger.textfreeVoiceWithVoicemail\ncom.pinger.ppa\ncom.aws.android\ncom.slacker.radio\ncom.coolmango.sudokufun\ncom.tunein.TuneInRadio\ncom.roidapp.photogrid\ncom.game.marblesaga\ncom.forshared.music\ncom.fingersoft.hillclimb\ncom.chillingo.orderup\ncom.appsverse.photon\ncom.popcap.ios.BejBlitz\ncom.kiloo.subwaysurf\ncom.mobilityware.solitaire\ncom.firsttouchgames.dlsa\ncom.mobile9.market.ggs\ncom.miniclip.8ballpoolmult\ncom.ijinshan.kbatterydoctor_en\ncom.ea.scrabblefree_na\ncom.madebyappolis.spinrilla\ncom.ea.gp.bej3\nmy.googlemusic.play\ncom.ea.tetrisblitz.inc\ncom.etermax.preguntados.lite\ncom.datpiff.mobile\ncom.ea.games.r3_row\ncom.ea.realracing3.inc\ncom.ezjoynetwork.juicesplash\ncom.ezjoynetwork.losttreasure\ncom.abcdigital.abcnews\ncom.abcnews.ABCNews\ncom.textmeinc.freetone\ncom.ea.game.pvz2_row\ncom.fgol.HungrySharkEvolution\ncom.crazycatsmedia.android_make_cupcake\ncom.gsn.android.casino\ncom.tubitv\ncom.teamlava.candy\ncom.cleanmaster.mguard\ncom.hutchgames.mud\ncom.magmic.iphone.Phase10Free\ncom.magmic.phase10.lite\ncom.pikpok.fkfg2\ncom.pikpok.fkfg2.play\ncom.quvideo.XiaoYing\ncom.fortafygames.colorswitch\ncom.truecaller\ncom.tapinator.cartransporter.truck3d\ncom.tapinator.citybiker3d\ncom.tapinator.crazy.cat.mouse\ncom.tapinator.crazy.sharksimulator3d\ncom.tapinator.crime.town.police.cardriver\ncom.tapinator.smash.carwar3d\ncom.tapinator.firetruck.emergency.rescue\ncom.tapinator.firefighter.city.hero\ncom.tapinator.transport.trucker\ncom.tapinator.modern.car.parking\ncom.pnixgames.bowlingking\nnet.beautyincorporated.android_runwaysalon\nnet.beautyincorporated.runwaysalon\ncom.mega.cast\ncom.katora.lovesticker\ncom.creation.smileys\ncom.choiceofgames.broadsides\nit.rortos.f18carrierlandingii\ncom.cleanmaster.security\ncom.cootek.smartinputv5\ncom.emoji.keyboard.touchpal\nfi.twomenandadog.zombiecatchers\njp.co.projapan.solklondike\ncom.tamalaki.hogmysterysociety\nair.com.tamalaki.hmthree.free\ncom.vshare.market.lite\ncom.nyusudigital.nyusu\ncom.mmm.trebel\ncom.pinger.textfre1\ncom.pinger.textfref\ncom.jiggerypokery.godfinger2\ncom.sideline.phone.number\nM00.pinger.textfreeVoiceWithVoicemail\ncom.pinger.side.line\nTMZ\nactiongames.games.cbb\nair.com.aetn.history.AncientAliens\ncom.PYOPYO.StarTracker\ncom.aerserv.sample\ncom.animirai.crashofthetitans\ncom.animirai.dbadvancedadventure\ncom.animirai.harvestmoonfriendsofmineraltown\ncom.animirai.pokemonemerald\ncom.animirai.pokemonfirered\ncom.animirai.pokemonruby\ncom.animirai.pokemonsapphire\ncom.animirai.sonicadvance\ncom.animirai.supermarioadvance2\ncom.animirai64.supersmashbros\ncom.animiraids.pokemondiamondversion\ncom.arcsoft.perfect365\ncom.arpita.superheroswallpaper\ncom.bounce.upgame\ncom.dndteam.vplayer\ncom.fairyclaw.bestfreekidsgames\ncom.galacticbits.fighterphysics\ntv.bitx.media\ncom.mobileposse.client\ncom.mola.playspace.android.parchis\ncom.movietime.tv\ncom.multimedia.player\ncom.pinger.ppb\ncom.pinger.textfree.call.dev\ncom.pinger.textfree.calm\ncom.pinger.textfree.caln\ncom.pinger.textfree.dev\ncom.pinger.textfreg\ncom.pinger.textfrei\ncom.pinger.textfrej\ncom.pinger.textfrel\ncom.pinger.textfrem\ncom.pinger.textfren\ncom.pixlr.express\ncom.podcast.podcasts\ncom.popcap.ios.PvZ2\ncom.protectedio.app\ncom.sevenlogics.Countdown\ncom.sideline.phone.number.dev\ncom.tinylabproductions.motocross\ncom.vimapgamestudio.farmsplashparadise\ncom.vtr.towt",
+    "adultcontent": "1",
+    "deviceOSinclude": "1",
+    "deviceOS": ["nil"],
+    "deviceID": ["nil"],
+    "deviceCategory": "-1",
+    "deviceMake": ["nil"],
+    "devicemodel": "nil",
+    "deviceosversion": "nil",
+    "carrierwhitelist": ["nil"],
+    "ispwhitelist": ["nil"],
+    "wifitargeting": "-1",
+    "country": "USA",
+    "postalcode": "nil",
+    "dma": "nil",
+    "dp_expression": "nil",
+    "packagename": "Videology_US_PR_In-App",
+    "enabled_on_desktop": "0",
+    "enabled_on_mobile": "1",
+    "enabled_on_tablet": "1",
+    "desktopSelected": "false",
+    "MobSelected": "true",
+    "tabSelected": "true",
+    "DeviceTypeError": "false",
+      "states":["nil"],
+    "cities": ["nil"],
+     "designid":["nil"],
+    "site": ["nil"]
+}

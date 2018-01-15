@@ -1,0 +1,79 @@
+{
+    "adsize": [
+        "250x300"
+    ],
+    "adformats": [
+        "maxvdo"
+    ],
+    "gps": "false",
+    "ifa": "nil",
+    "integration": [
+        "Chocolate SSP"
+    ],
+    "clickable": "false",
+    "instream": "true",
+    "incentivized": "nil",
+    "autoplay": "nil",
+    "sound": "true",
+    "skippable": "true",
+    "viewability": "nil",
+    "moat": "nil",
+    "adsizedesk": [
+        "small"
+    ],
+    "adunitdesk": [
+        "Interstital"
+    ],
+    "apporwebtargetting": "-1",
+    "categories": [
+        "Arts & Entertainment"
+    ],
+    "categoriesinclude": "1",
+    "domainbundleinclude": "1",
+    "domainbundle": "castcom.protectedio.app",
+    "adultcontent": "1",
+    "deviceOSinclude": "1",
+    "deviceOS": [
+        "Android"
+    ],
+    "deviceID": [
+        "IFA"
+    ],
+    "deviceCategory": "-2",
+    "deviceMake": [
+        "1&1"
+    ],
+    "devicemodel": "Android",
+    "deviceosversion": "8.3",
+    "carrierwhitelist": [
+        "& Aguiar Ltda Me"
+    ],
+    "ispwhitelist": [
+        "nil"
+    ],
+    "wifitargeting": "-1",
+    "country": "USA",
+    "postalcode": "151001",
+    "dma": "nil",
+    "dp_expression": "nil",
+    "packagename": "Live_Nation_HighViewability_DBM",
+    "enabled_on_desktop": "true",
+    "enabled_on_mobile": "nil",
+    "enabled_on_tablet": "nil",
+    "desktopSelected": "nil",
+    "MobSelected": "nil",
+    "tabSelected": "nil",
+    "DeviceTypeError": "false",
+    "states": [
+        "nil"
+    ],
+    "cities": [
+        "nil"
+    ],
+    "designid": [
+        "nil"
+    ],
+    "site": [
+        "nil"
+    ]
+}

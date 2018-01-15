@@ -1,0 +1,63 @@
+{
+    
+    "adsize": [
+        "nil"
+    ],
+    "adformats": [
+       "nil"
+    ],
+    "gps": "nil",
+    "ifa": "nil",
+    "integration": [
+       "nil"
+    ],
+    "clickable": "nil",
+    "instream": "nil",
+    "incentivized": "nil",
+    "autoplay": "nil",
+    "sound": "nil",
+    "skippable": "true",
+    "viewability": "nil",
+    "moat": "nil",
+    "adsizedesk": [
+       "nil"
+    ],
+    "adunitdesk": [
+       "nil"
+    ],
+
+    "apporwebtargetting": "1",
+    "categories": ["nil"],
+    "categoriesinclude": "1",
+    "domainbundleinclude": "1",
+    "domainbundle": "dailystar.co.uk\nrantsports.com\nmedicaldaily.com\ndramanice.to\nadweek.com\nfootyroom.com\nthethings.com\nhotrod.com\ngamenguide.com\nhealthiac.com\nscreenrant.com\nbostonherald.com\nnbcnews.com\nbleacherreport.com\novguide.com\nthetalko.com\nmirror.co.uk\nbloomberg.com\ncomicbook.com\nawm.com\nmercurynews.com\nmenshealth.com\nforbes.com\nandroidauthority.com\nthedoctorstv.com\ninquirer.net\nthehill.com\nmashable.com\ntime.com\nglamour.com\nthesportster.com\naskmen.com\nmatadornetwork.com\ntechcrunch.com\nhollywoodreporter.com\nwired.com\nhuffingtonpost.com\nsportingnews.com\ncrackle.com\nboredpanda.com\ntherichest.com\nnfl.com\nibtimes.co.uk\npcworld.com\ntheguardian.com\noprah.com\nkissanime.to\nindependent.co.uk\nrachaelraymag.com\nmsn.com\ndramacool.to\nindianexpress.com\nsciencealert.com\ntwentytwowords.com\nthesmokinggun.com\nbloggersarena.com\ncosmopolitan.com\ncookingclassy.com\nbrobible.com\nmentalfloss.com\nentimports.com\nnickiswift.com\noilersnation.com\ngoodmenproject.com\nrealitysteve.com\nidiva.com\ninspiremore.com\ntvline.com\nridiculously.com\nsalon.com\nayoye.com\nlistverse.com\niflscience.com\ndailyhive.com\nheroviral.com\nzoo.com\ninquisitr.com\nsteadyhealth.com\ncracked.com\nfame10.com\njustjared.com\nuproxx.com\nnouvelobs.com\nshewearsmanyhats.com\nchacha.com\nlittlethings.com\nfashionbum.com\nmovieweb.com\nvariety.com\ncsmonitor.com\nmiamiherald.com\ncnn.com\nwholehogsports.com\npinoytvshows.org\nibtimes.co.in\nnydailynews.com\ntamilo.com\nnews4sanantonio.com\nmothering.com\nawesomeinventions.com\ntraditionalhome.com\nrunt-of-the-web.com\nfood52.com\nallday.com\nxfinity.com\ntelly-trader.me\nbulbagarden.net\nthekitchn.com\ncbslocal.com\nabs-cbn.com\nreadcomiconline.to\ndoctoroz.com\nbusinessinsider.com\ntelegraph.co.uk\nitechpost.com\nlatimes.com\nwomenshealthmag.com\ntalkingpointsmemo.com\naccuweather.com\nfoodnetwork.com\nallrecipes.com\nyahoo.com\nrealgm.com\nblogspot.com\nwordplays.com\nslantmagazine.com\nheraldsun.com.au\nperezhilton.com\nwlos.com\nthenorthernecho.co.uk\ntheargus.co.uk\ngematsu.com\nsunnyskyz.com\nwomansworld.com\nanimeland.tv\ndeadline.com\nmaltatoday.com.mt\nnorthwichguardian.co.uk\nokmagazine.com\nphilly.com\nsky.com\nsouthwalesargus.co.uk\nsportzwiki.com\nstarcasm.net\nturnto10.com\n90min.com\nbdnews24.com\nbesthealthmag.ca\ngreatyarmouthmercury.co.uk\nkilburntimes.co.uk\nmangaeden.com\nnowinstock.net\npunchng.com\nreadersdigest.ca\nthecountrycook.net\ntinypic.com\nworcesternews.co.uk\nalternativenation.net\nbirthmoviesdeath.com\ncelebmafia.com\ndailysnark.com\ndestinationtips.com\nintouchweekly.com\nlifebuzz.com\nmetalinjection.net\nmugshots.com\nnationalinterest.org\nnomnompaleo.com\npajiba.com\nsaharareporters.com\nthedailybeast.com\nthinkinghumanity.com\ntruthrevolt.org\ntwinfinite.net\nwrestlenewz.com\npch.com\nsimplyrecipes.com\nsltrib.com\ntheindependent.com\nfredericksburg.com\nbreak.com\nmarinij.com\nshockwave.com\nthegloss.com\nimleagues.com\ngo.com\nap.org\ntwincities.com\nusmagazine.com\nbostonglobe.com\nthetimesnews.com\nmysanantonio.com\ntimesunion.com\nsacbee.com\nkansascity.com\nkansas.com\neastbaytimes.com\ncharlotteobserver.com\nwashingtonexaminer.com\nnewsobserver.com\nclark.com\ntampabay.com\nmodbee.com\nledger-enquirer.com\nfresnobee.com\nsunherald.com\nidahostatesman.com\nchron.com\nsanluisobispo.com\nusnews.com\nrollcall.com\nflkeysnews.com\nstripes.com\nomaha.com\nwashingtontimes.com\nrobesonian.com\ndaily-journal.com\nnwfdailynews.com\nchieftain.com\nseattlepi.com\nmtairynews.com\nwilmingtonmugshots.com\nmugshotsocala.com\ngadsdentimes.com\ngastongazette.com\noanow.com\nnewsherald.com\nnhregister.com\nkearneyhub.com\nsidneydailynews.com\ngoupstate.com\njeffersonpost.com\ntulsaworld.com\nmyjournalcourier.com\nportsmouth-dailytimes.com\nharlandaily.com\ngurl.com\nmommyish.com\nTechnoBuffalo.com\nabc.com\nranker.com\nvogue.com\nfoxnews.com\natt.net\npeople.com\nnewyorker.com\ncaranddriver.com\nsciencechannel.com\nvice.com\nesquire.co.uk\ndailymail.co.uk\ntimesleader.com\ndailycamera.com\ndailybreeze.com\ntri-cityherald.com\nstar-telegram.com\nwtop.com\nthenewstribune.com\nthetelegraph.com\nmyrtlebeachonline.com\nhoumatoday.com\ndaytonamugshots.com\nherald-dispatch.com\nmugshotsgainesville.com\nwilliamsondailynews.com\ntodaysmama.com\n4shared.com\npracticequiz.com\ndepositfiles.com\nforsalebyowner.com\nmodernmom.com\nthefiscaltimes.com\nkentucky.com\nbnd.com\nthestate.com\nbradenton.com\ncentredaily.com\nmacon.com\nthegrio.com\nislandpacket.com\nheraldonline.com\ntheolympian.com\nbellinghamherald.com\nmercedsunstar.com\nredalertpolitics.com\ndailynews.com\nsierrastar.com\nfirstforwomen.com\nabeautifulmess.com\nbbook.com\npcgamer.com\njamieoliver.com\nwritical.com\nsun-gazing.com",
+    "adultcontent": "1",
+    "deviceOSinclude": "1",
+    "deviceOS": ["nil"],
+    "deviceID": ["nil"],
+    "deviceCategory": "-1",
+    "deviceMake": ["nil"],
+    "devicemodel": "nil",
+    "deviceosversion": "nil",
+    "carrierwhitelist": ["nil"],
+    "ispwhitelist": ["nil"],
+    "wifitargeting": "-1",
+    "country": "CAN",
+    "postalcode": "nil",
+    "dma": "nil",
+    "dp_expression": "nil",
+    "packagename": "Videology_CA_MW_VPAID_Skip",
+    "enabled_on_desktop": "0",
+    "enabled_on_mobile": "1",
+    "enabled_on_tablet": "1",
+    "desktopSelected": "false",
+    "MobSelected": "true",
+    "tabSelected": "true",
+    "DeviceTypeError": "false",
+    "states":["nil"],
+    "cities": ["nil"],
+    "designid":["nil"],
+    "site": ["nil"]
+
+   
+}

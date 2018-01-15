@@ -1,0 +1,63 @@
+{
+    
+    "adsize": [
+        "nil"
+    ],
+    "adformats": [
+       "nil"
+    ],
+    "gps": "true",
+    "ifa": "true",
+    "integration": [
+       "nil"
+    ],
+    "clickable": "nil",
+    "instream": "nil",
+    "incentivized": "nil",
+    "autoplay": "nil",
+    "sound": "nil",
+    "skippable": "nil",
+    "viewability": "nil",
+    "moat": "nil",
+    "adsizedesk": [
+       "nil"
+    ],
+    "adunitdesk": [
+       "nil"
+    ],
+
+    "apporwebtargetting": "0",
+    "categories": ["nil"],
+    "categoriesinclude": "1",
+    "domainbundleinclude": "1",
+    "domainbundle": "it.mm.android.relaxrain\ncom.spacegame.basic3\ncom.mobilesrepublic.appy\ncom.estrongs.locker\ncom.estrongs.android.pop\ncom.ksmobile.launcher\ncom.convex.movietime\ncom.pandora.android\ncom.cm.launcher\ncom.dianxinos.optimizer.duplay\ncom.roidapp.photogrid\nhotspotshield.android.vpn\ncom.camera.beautycam\ncom.lionmobi.powerclean\ncom.duapps.cleaner\ncom.treemolabs.apps.cbsnews\ncom.honeycomb.launcher\ncom.xogrp.thebump\nmedia.audioplayer.musicplayer\ncom.rcplatform.nocrop\ncom.tmsoft.whitenoise.lite\ncom.arcsoft.perfect365\nmedia.music.musicplayer\ncom.games2win.parkingfrenzy\ncom.duapps.antivirus\ncom.audiomack\ncom.sgiggle.production\ncom.psafe.msuite\nbibleverses.bibleverse.bible.biblia.verse.devotion\ncom.dianxinos.dxbs\ncom.mentormate.android.inboxdollars\ndailybibleverse.bible.verse\ncom.gameloft.dragonmaniahd\ncom.cnbc.client\ncom.slidejoy\ncom.ketchapp.ballz\ncom.ketchapp.rider\ncom.taggedapp\ncom.spcomes.jquest\ncom.sparkpeople.androidtracker\ncom.toi.reader.activities\ncom.fortafygames.colorswitch\ncom.surpax.ledflashlight.panel\ncom.hermes.superb.booster\ncom.firsttouchgames.score\ncom.oneapp.max\ncom.eyefilter.night\ncom.koushikdutta.cast\ncom.yoolotto.android\nfc.clean.security.memory.booster.battery\ncom.surfline.android\ncom.magmamobile.game.SpiderSolitaire\ncom.espn.score_center\ncom.handmark.sportcaster\ncom.okcupid.okcupid\ncom.outfit7.mytalkingangela\ncom.qihoo.security.lite\ncom.evite\ncom.superopt.cleaner\ncom.usatoday.android.news\ncom.gotv.nflgamecenter.us.lite\ncom.qihoo.security\ncom.pic.photoeditor\ncom.dailymail.online\ncom.weather.weather\ncom.qihoo.batterysaverplus\ncom.cleanmaster.security\ncom.turboc.cleaner\ncom.icenta.sudoku.ui",
+    "adultcontent": "1",
+    "deviceOSinclude": "1",
+    "deviceOS": ["nil"],
+    "deviceID": ["nil"],
+    "deviceCategory": "-1",
+    "deviceMake": ["nil"],
+    "devicemodel": "nil",
+    "deviceosversion": "nil",
+    "carrierwhitelist": ["nil"],
+    "ispwhitelist": ["nil"],
+    "wifitargeting": "-1",
+    "country": "USA",
+    "postalcode": "nil",
+    "dma": "nil",
+    "dp_expression": "nil",
+    "packagename": "PlaceIQ_HighVCR_US_Test_InApp",
+    "enabled_on_desktop": "0",
+    "enabled_on_mobile": "1",
+    "enabled_on_tablet": "1",
+    "desktopSelected": "false",
+    "MobSelected": "true",
+    "tabSelected": "true",
+    "DeviceTypeError": "false",
+    "states":["nil"],
+    "cities": ["nil"],
+    "designid":["nil"],
+    "site": ["nil"]
+
+   
+}
